@@ -1,0 +1,64 @@
+# engineering — Apache config (cPanel). Safe to edit; backend files never overwrite this file.
+Options -Indexes
+DirectoryIndex index.php
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # --- One canonical address: HTTPS + www.onpointcivils.co.zw (only for the real domain, so staging URLs still work) ---
+  RewriteCond %{HTTP_HOST} ^(www\.)?onpointcivils\.co\.zw$ [NC]
+  RewriteCond %{HTTPS} !=on
+  RewriteCond %{HTTP:X-Forwarded-Proto} !https
+  RewriteRule ^ https://www.onpointcivils.co.zw%{REQUEST_URI} [L,R=301]
+  RewriteCond %{HTTP_HOST} ^(www\.)?onpointcivils\.co\.zw$ [NC]
+  RewriteCond %{HTTP_HOST} !^www\.onpointcivils\.co\.zw$ [NC]
+  RewriteRule ^ https://www.onpointcivils.co.zw%{REQUEST_URI} [L,R=301]
+
+  # --- Blog: /blog/ and /blog/my-post ---
+  RewriteRule ^blog/?$ blog/index.php [L,QSA]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^blog/([a-z0-9-]+)/?$ blog/post.php?slug=$1 [L,QSA]
+
+  # --- Projects: /projects/ and /projects/my-project ---
+  RewriteRule ^projects/?$ pages/projects.php [L,QSA]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^projects/([a-z0-9-]+)/?$ pages/project.php?slug=$1 [L,QSA]
+
+  # --- Machine-readable files (search engines + AI assistants) ---
+  RewriteRule ^sitemap\.xml$ sitemap.php [L]
+  RewriteRule ^feed\.xml$ feed.php [L]
+  RewriteRule ^llms\.txt$ llms.php [L]
+  RewriteRule ^llms-full\.txt$ llms.php?full=1 [L,QSA]
+  RewriteRule ^indexnow\.txt$ indexnow.php [L]
+
+  # --- JSON API ---
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^api/ api/index.php [L,QSA]
+</IfModule>
+
+# Never serve config, source, SQL or install scripts
+<FilesMatch "^(\.env.*|schema\.sql|seed_admin\.php|README\.md|sync-backend\.sh)$">
+  Require all denied
+</FilesMatch>
+
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Strict-Transport-Security "max-age=31536000" env=HTTPS
+</IfModule>
+
+# Faster pages = better rankings: compress text, cache static files
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml application/xml application/rss+xml application/javascript application/json image/svg+xml
+</IfModule>
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 month"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+</IfModule>

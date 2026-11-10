@@ -1,14 +1,9 @@
 <?php
-include '../includes/config.php';
-include '../includes/auth.php';
+require __DIR__ . '/../src/bootstrap.php';
 
-// Clear all session variables
-$_SESSION = array();
-
-// Destroy the session
-session_destroy();
-
-// Redirect to login page
-header("Location: " . SITE_URL . "/login.php");
-exit();
-?>
+start_session();
+if (is_post()) {
+    csrf_verify();
+    logout();
+}
+redirect('login.php');

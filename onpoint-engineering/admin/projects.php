@@ -1,303 +1,93 @@
 <?php
-include '../includes/config.php';
-include '../includes/auth.php';
-redirectIfNotLoggedIn();
+require __DIR__ . '/../src/bootstrap.php';
+require __DIR__ . '/../src/layout.php';
 
-// Handle project deletion
-if (isset($_GET['delete_id'])) {
-    $id = $_GET['delete_id'];
+require_admin();
+if (!FEATURE_PROJECTS) {
+    redirect('index.php');
+}
+$pdo = db();
 
-    // Get image path before deletion
-    $stmt = $pdo->prepare("SELECT image_path FROM projects WHERE id = ?");
+if (is_post()) {
+    csrf_verify();
+    $id = (int) ($_POST['id'] ?? 0);
+    $action = $_POST['action'] ?? '';
+    $stmt = $pdo->prepare('SELECT * FROM projects WHERE id = ?');
     $stmt->execute([$id]);
     $project = $stmt->fetch();
-
-    // Delete project
-    $stmt = $pdo->prepare("DELETE FROM projects WHERE id = ?");
-    if ($stmt->execute([$id])) {
-        // Delete associated image
-        if ($project['image_path'] && file_exists('../' . $project['image_path'])) {
-            unlink('../' . $project['image_path']);
-        }
-        $_SESSION['success'] = "Project deleted successfully!";
-    } else {
-        $_SESSION['error'] = "Error deleting project!";
+    if (!$project) {
+        flash('error', 'That project no longer exists.');
+    } elseif ($action === 'delete') {
+        $pdo->prepare('DELETE FROM projects WHERE id = ?')->execute([$id]);
+        delete_upload($project['cover_image']);
+        flash('success', '“' . $project['title'] . '” was deleted.');
+    } elseif ($action === 'toggle_publish') {
+        $pdo->prepare('UPDATE projects SET is_published = 1 - is_published WHERE id = ?')->execute([$id]);
+        flash('success', '“' . $project['title'] . '” is now ' . ($project['is_published'] ? 'hidden from' : 'shown on') . ' the website.');
+    } elseif ($action === 'toggle_featured') {
+        $pdo->prepare('UPDATE projects SET featured = 1 - featured WHERE id = ?')->execute([$id]);
+        flash('success', '“' . $project['title'] . '” ' . ($project['featured'] ? 'removed from' : 'added to') . ' featured projects.');
     }
-    header("Location: projects.php");
-    exit();
+    redirect('projects.php');
 }
 
-// Handle featured toggle
-if (isset($_GET['toggle_featured'])) {
-    $id = $_GET['toggle_featured'];
-    $stmt = $pdo->prepare("UPDATE projects SET featured = NOT featured WHERE id = ?");
-    if ($stmt->execute([$id])) {
-        $_SESSION['success'] = "Project featured status updated!";
-    } else {
-        $_SESSION['error'] = "Error updating project!";
-    }
-    header("Location: projects.php");
-    exit();
+$filter = $_GET['status'] ?? 'all';
+$statuses = ['all' => 'All', 'ongoing' => 'Ongoing', 'completed' => 'Completed', 'planned' => 'Planned', 'on_hold' => 'On hold'];
+if (!isset($statuses[$filter])) {
+    $filter = 'all';
 }
-
-// Get all projects
-$stmt = $pdo->query("SELECT * FROM projects ORDER BY created_at DESC");
+$sql = 'SELECT id, title, slug, client, location, status, featured, is_published, cover_image, start_date, end_date FROM projects';
+$params = [];
+if ($filter !== 'all') {
+    $sql .= ' WHERE status = ?';
+    $params[] = $filter;
+}
+$sql .= ' ORDER BY featured DESC, sort_order ASC, COALESCE(end_date, start_date, created_at) DESC';
+$stmt = $pdo->prepare($sql);
+$stmt->execute($params);
 $projects = $stmt->fetchAll();
+
+admin_header('Projects', 'projects', [
+    'actions' => '<a class="btn btn-brand" href="project_edit.php">+ New project</a>',
+]);
 ?>
+<div class="toolbar">
+  <nav class="tabs" aria-label="Filter by status">
+    <?php foreach ($statuses as $key => $label): ?>
+      <a href="?status=<?= e($key) ?>" class="<?= $filter === $key ? 'active' : '' ?>"><?= $label ?></a>
+    <?php endforeach; ?>
+  </nav>
+</div>
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Manage Projects - <?php echo $company_info['company_name']; ?></title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-    <style>
-        .table-img {
-            width: 80px;
-            height: 60px;
-            object-fit: cover;
-            border-radius: 4px;
-        }
-
-        .status-badge {
-            font-size: 0.75em;
-        }
-
-        .action-buttons .btn {
-            margin: 2px;
-        }
-    </style>
-</head>
-
-<body>
-    <?php include '../includes/admin-header.php'; ?>
-
-    <div class="container-fluid">
-        <div class="row">
-            <?php include 'sidebar.php'; ?>
-
-            <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
-                <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                    <h1 class="h2">Manage Projects</h1>
-                    <a href="add_project.php" class="btn btn-primary">
-                        <i class="fas fa-plus me-2"></i>Add New Project
-                    </a>
-                </div>
-
-                <!-- Success/Error Messages -->
-                <?php if (isset($_SESSION['success'])): ?>
-                    <div class="alert alert-success alert-dismissible fade show" role="alert">
-                        <?php echo $_SESSION['success'];
-                        unset($_SESSION['success']); ?>
-                        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-                    </div>
-                <?php endif; ?>
-
-                <?php if (isset($_SESSION['error'])): ?>
-                    <div class="alert alert-danger alert-dismissible fade show" role="alert">
-                        <?php echo $_SESSION['error'];
-                        unset($_SESSION['error']); ?>
-                        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-                    </div>
-                <?php endif; ?>
-
-                <!-- Projects Table -->
-                <div class="card">
-                    <div class="card-header">
-                        <h5 class="card-title mb-0">
-                            <i class="fas fa-project-diagram me-2"></i>All Projects
-                            <span class="badge bg-secondary ms-2"><?php echo count($projects); ?></span>
-                        </h5>
-                    </div>
-                    <div class="card-body">
-                        <?php if (empty($projects)): ?>
-                            <div class="text-center py-5">
-                                <i class="fas fa-inbox fa-3x text-muted mb-3"></i>
-                                <h5 class="text-muted">No Projects Found</h5>
-                                <p class="text-muted">Get started by adding your first project.</p>
-                                <a href="add_project.php" class="btn btn-primary">
-                                    <i class="fas fa-plus me-2"></i>Add Your First Project
-                                </a>
-                            </div>
-                        <?php else: ?>
-                            <div class="table-responsive">
-                                <table class="table table-striped table-hover">
-                                    <thead class="table-dark">
-                                        <tr>
-                                            <th>Image</th>
-                                            <th>Title</th>
-                                            <th>Client</th>
-                                            <th>Location</th>
-                                            <th>Status</th>
-                                            <th>Featured</th>
-                                            <th>Budget</th>
-                                            <th>Date</th>
-                                            <th>Actions</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <?php foreach ($projects as $project): ?>
-                                            <tr>
-                                                <td>
-                                                    <?php if ($project['image_path']): ?>
-                                                        <img src="../<?php echo $project['image_path']; ?>"
-                                                            alt="<?php echo htmlspecialchars($project['title']); ?>"
-                                                            class="table-img">
-                                                    <?php else: ?>
-                                                        <div class="table-img bg-secondary d-flex align-items-center justify-content-center text-white">
-                                                            <i class="fas fa-image"></i>
-                                                        </div>
-                                                    <?php endif; ?>
-                                                </td>
-                                                <td>
-                                                    <strong><?php echo htmlspecialchars($project['title']); ?></strong>
-                                                    <?php if ($project['short_description']): ?>
-                                                        <br><small class="text-muted"><?php echo htmlspecialchars(substr($project['short_description'], 0, 50)); ?>...</small>
-                                                    <?php endif; ?>
-                                                </td>
-                                                <td><?php echo htmlspecialchars($project['client']); ?></td>
-                                                <td><?php echo htmlspecialchars($project['location']); ?></td>
-                                                <td>
-                                                    <span class="badge status-badge bg-<?php
-                                                                                        switch ($project['status']) {
-                                                                                            case 'completed':
-                                                                                                echo 'success';
-                                                                                                break;
-                                                                                            case 'ongoing':
-                                                                                                echo 'warning';
-                                                                                                break;
-                                                                                            case 'planned':
-                                                                                                echo 'info';
-                                                                                                break;
-                                                                                            case 'on_hold':
-                                                                                                echo 'secondary';
-                                                                                                break;
-                                                                                            default:
-                                                                                                echo 'secondary';
-                                                                                        }
-                                                                                        ?>">
-                                                        <?php echo ucfirst(str_replace('_', ' ', $project['status'])); ?>
-                                                    </span>
-                                                </td>
-                                                <td>
-                                                    <a href="projects.php?toggle_featured=<?php echo $project['id']; ?>"
-                                                        class="btn btn-sm <?php echo $project['featured'] ? 'btn-warning' : 'btn-outline-warning'; ?>">
-                                                        <i class="fas fa-star"></i>
-                                                    </a>
-                                                </td>
-                                                <td>
-                                                    <?php if ($project['budget']): ?>
-                                                        $<?php echo number_format($project['budget'], 2); ?>
-                                                    <?php else: ?>
-                                                        <span class="text-muted">-</span>
-                                                    <?php endif; ?>
-                                                </td>
-                                                <td>
-                                                    <small>
-                                                        <?php echo date('M d, Y', strtotime($project['created_at'])); ?>
-                                                    </small>
-                                                </td>
-                                                <td>
-                                                    <div class="action-buttons">
-                                                        <a href="edit_project.php?id=<?php echo $project['id']; ?>"
-                                                            class="btn btn-sm btn-outline-primary"
-                                                            title="Edit Project">
-                                                            <i class="fas fa-edit"></i>
-                                                        </a>
-                                                        <a href="projects.php?delete_id=<?php echo $project['id']; ?>"
-                                                            class="btn btn-sm btn-outline-danger"
-                                                            title="Delete Project"
-                                                            onclick="return confirm('Are you sure you want to delete this project? This action cannot be undone.')">
-                                                            <i class="fas fa-trash"></i>
-                                                        </a>
-                                                        <a href="../pages/projects.php#project-<?php echo $project['id']; ?>"
-                                                            target="_blank"
-                                                            class="btn btn-sm btn-outline-info"
-                                                            title="View on Website">
-                                                            <i class="fas fa-eye"></i>
-                                                        </a>
-                                                    </div>
-                                                </td>
-                                            </tr>
-                                        <?php endforeach; ?>
-                                    </tbody>
-                                </table>
-                            </div>
-                        <?php endif; ?>
-                    </div>
-                </div>
-
-                <!-- Statistics -->
-                <div class="row mt-4">
-                    <div class="col-md-3">
-                        <div class="card bg-primary text-white">
-                            <div class="card-body">
-                                <div class="d-flex justify-content-between">
-                                    <div>
-                                        <h4><?php echo count(array_filter($projects, fn($p) => $p['status'] === 'completed')); ?></h4>
-                                        <span>Completed</span>
-                                    </div>
-                                    <div class="align-self-center">
-                                        <i class="fas fa-check-circle fa-2x"></i>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="card bg-warning text-white">
-                            <div class="card-body">
-                                <div class="d-flex justify-content-between">
-                                    <div>
-                                        <h4><?php echo count(array_filter($projects, fn($p) => $p['status'] === 'ongoing')); ?></h4>
-                                        <span>Ongoing</span>
-                                    </div>
-                                    <div class="align-self-center">
-                                        <i class="fas fa-tasks fa-2x"></i>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="card bg-info text-white">
-                            <div class="card-body">
-                                <div class="d-flex justify-content-between">
-                                    <div>
-                                        <h4><?php echo count(array_filter($projects, fn($p) => $p['status'] === 'planned')); ?></h4>
-                                        <span>Planned</span>
-                                    </div>
-                                    <div class="align-self-center">
-                                        <i class="fas fa-clock fa-2x"></i>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="card bg-success text-white">
-                            <div class="card-body">
-                                <div class="d-flex justify-content-between">
-                                    <div>
-                                        <h4><?php echo count(array_filter($projects, fn($p) => $p['featured'])); ?></h4>
-                                        <span>Featured</span>
-                                    </div>
-                                    <div class="align-self-center">
-                                        <i class="fas fa-star fa-2x"></i>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </main>
-        </div>
-    </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-
-</html>
+<section class="card">
+  <?php if (!$projects): ?>
+    <div class="empty"><strong>No projects<?= $filter !== 'all' ? ' with this status' : ' yet' ?></strong>Projects you add here appear on the website’s Projects page.<br><br><a class="btn btn-brand" href="project_edit.php">Add a project</a></div>
+  <?php else: ?>
+    <div class="table-wrap"><table>
+      <thead><tr><th class="hide-sm"></th><th>Project</th><th>Status</th><th class="hide-sm">Website</th><th></th></tr></thead>
+      <tbody>
+      <?php foreach ($projects as $p): ?>
+        <tr>
+          <td class="hide-sm" style="width:76px"><?php if ($p['cover_image']): ?><img class="thumb" src="<?= e(upload_url($p['cover_image'])) ?>" alt=""><?php else: ?><div class="thumb"></div><?php endif; ?></td>
+          <td>
+            <a class="title-link" href="project_edit.php?id=<?= (int) $p['id'] ?>"><?= e($p['title']) ?></a><?= $p['featured'] ? ' <span class="badge badge-ongoing">Featured</span>' : '' ?>
+            <div class="sub"><?= e(implode(' · ', array_filter([$p['client'], $p['location']]))) ?></div>
+          </td>
+          <td><?= status_badge($p['status']) ?></td>
+          <td class="hide-sm"><?= $p['is_published'] ? '<span class="badge badge-published">Visible</span>' : '<span class="badge">Hidden</span>' ?></td>
+          <td class="actions">
+            <form method="post" class="inline">
+              <?= csrf_field() ?><input type="hidden" name="id" value="<?= (int) $p['id'] ?>">
+              <button class="btn btn-ghost btn-sm" name="action" value="toggle_publish"><?= $p['is_published'] ? 'Hide' : 'Show' ?></button>
+              <button class="btn btn-ghost btn-sm hide-sm" name="action" value="toggle_featured"><?= $p['featured'] ? 'Unfeature' : 'Feature' ?></button>
+            </form>
+            <a class="btn btn-ghost btn-sm" href="project_edit.php?id=<?= (int) $p['id'] ?>">Edit</a>
+            <?= delete_button('projects.php', (int) $p['id'], 'project') ?>
+          </td>
+        </tr>
+      <?php endforeach; ?>
+      </tbody>
+    </table></div>
+  <?php endif; ?>
+</section>
+<?php admin_footer();

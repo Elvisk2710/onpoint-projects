@@ -1,213 +1,85 @@
 <?php
-include '../includes/config.php';
-include '../includes/auth.php';
-redirectIfNotLoggedIn();
+require __DIR__ . '/../src/bootstrap.php';
+require __DIR__ . '/../src/layout.php';
 
-// Handle message status update
-if (isset($_GET['mark_read'])) {
-    $id = $_GET['mark_read'];
-    $stmt = $pdo->prepare("UPDATE contact_messages SET status = 'read' WHERE id = ?");
-    $stmt->execute([$id]);
-    $_SESSION['success'] = "Message marked as read!";
-    header("Location: messages.php");
-    exit();
-}
+require_admin();
+$pdo = db();
 
-if (isset($_GET['delete_message'])) {
-    $id = $_GET['delete_message'];
-    $stmt = $pdo->prepare("DELETE FROM contact_messages WHERE id = ?");
-    if ($stmt->execute([$id])) {
-        $_SESSION['success'] = "Message deleted successfully!";
-    } else {
-        $_SESSION['error'] = "Error deleting message!";
+if (is_post()) {
+    csrf_verify();
+    $id = (int) ($_POST['id'] ?? 0);
+    $action = $_POST['action'] ?? '';
+    if ($action === 'delete') {
+        $pdo->prepare('DELETE FROM contact_messages WHERE id = ?')->execute([$id]);
+        flash('success', 'Message deleted.');
+    } elseif (in_array($action, ['new', 'read', 'archived'], true)) {
+        $pdo->prepare('UPDATE contact_messages SET status = ? WHERE id = ?')->execute([$action, $id]);
+    } elseif ($action === 'read_all') {
+        $pdo->exec("UPDATE contact_messages SET status = 'read' WHERE status = 'new'");
+        flash('success', 'All messages marked as read.');
     }
-    header("Location: messages.php");
-    exit();
+    redirect('messages.php?' . http_build_query(array_intersect_key($_GET, array_flip(['view', 'page']))));
 }
 
-// Get all messages
-$stmt = $pdo->query("SELECT * FROM contact_messages ORDER BY created_at DESC");
-$messages = $stmt->fetchAll();
+$view = ($_GET['view'] ?? 'inbox') === 'archived' ? 'archived' : 'inbox';
+$page = max(1, (int) ($_GET['page'] ?? 1));
+$perPage = 25;
+$where = $view === 'archived' ? "status = 'archived'" : "status <> 'archived'";
+$total = (int) $pdo->query("SELECT COUNT(*) FROM contact_messages WHERE $where")->fetchColumn();
+$pages = (int) ceil($total / $perPage);
+$messages = $pdo->query(
+    "SELECT * FROM contact_messages WHERE $where ORDER BY created_at DESC LIMIT $perPage OFFSET " . (($page - 1) * $perPage)
+)->fetchAll();
 
-$new_messages = $pdo->query("SELECT COUNT(*) FROM contact_messages WHERE status = 'new'")->fetchColumn();
+$actions = new_message_count() > 0
+    ? '<form method="post" class="inline">' . csrf_field() . '<button class="btn btn-ghost" name="action" value="read_all">Mark all as read</button></form>'
+    : '';
+admin_header('Messages', 'messages', ['actions' => $actions]);
 ?>
+<div class="toolbar">
+  <nav class="tabs">
+    <a href="?view=inbox" class="<?= $view === 'inbox' ? 'active' : '' ?>">Inbox</a>
+    <a href="?view=archived" class="<?= $view === 'archived' ? 'active' : '' ?>">Archived</a>
+  </nav>
+</div>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Messages - <?php echo $company_info['company_name']; ?></title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-</head>
-<body>
-    <?php include '../includes/admin-header.php'; ?>
-    
-    <div class="container-fluid">
-        <div class="row">
-            <?php include 'sidebar.php'; ?>
-            
-            <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
-                <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                    <h1 class="h2">Contact Messages</h1>
-                    <span class="badge bg-danger">
-                        <?php echo $new_messages; ?> New Messages
-                    </span>
-                </div>
-
-                <?php if (isset($_SESSION['success'])): ?>
-                    <div class="alert alert-success"><?php echo $_SESSION['success']; unset($_SESSION['success']); ?></div>
-                <?php endif; ?>
-                
-                <?php if (isset($_SESSION['error'])): ?>
-                    <div class="alert alert-danger"><?php echo $_SESSION['error']; unset($_SESSION['error']); ?></div>
-                <?php endif; ?>
-
-                <div class="card">
-                    <div class="card-body">
-                        <?php if (empty($messages)): ?>
-                            <div class="text-center py-5">
-                                <i class="fas fa-inbox fa-3x text-muted mb-3"></i>
-                                <h5 class="text-muted">No Messages Yet</h5>
-                                <p class="text-muted">Contact form messages will appear here.</p>
-                            </div>
-                        <?php else: ?>
-                            <div class="table-responsive">
-                                <table class="table table-striped">
-                                    <thead>
-                                        <tr>
-                                            <th>Status</th>
-                                            <th>Name</th>
-                                            <th>Email</th>
-                                            <th>Subject</th>
-                                            <th>Message</th>
-                                            <th>Date</th>
-                                            <th>Actions</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <?php foreach ($messages as $message): ?>
-                                        <tr>
-                                            <td>
-                                                <span class="badge bg-<?php echo $message['status'] == 'new' ? 'danger' : 'success'; ?>">
-                                                    <?php echo ucfirst($message['status']); ?>
-                                                </span>
-                                            </td>
-                                            <td><?php echo htmlspecialchars($message['name']); ?></td>
-                                            <td>
-                                                <a href="mailto:<?php echo $message['email']; ?>">
-                                                    <?php echo $message['email']; ?>
-                                                </a>
-                                            </td>
-                                            <td><?php echo htmlspecialchars($message['subject']); ?></td>
-                                            <td>
-                                                <span title="<?php echo htmlspecialchars($message['message']); ?>">
-                                                    <?php echo truncateText($message['message'], 50); ?>
-                                                </span>
-                                            </td>
-                                            <td><?php echo formatDate($message['created_at']); ?></td>
-                                            <td>
-                                                <div class="btn-group btn-group-sm">
-                                                    <?php if ($message['status'] == 'new'): ?>
-                                                        <a href="messages.php?mark_read=<?php echo $message['id']; ?>" 
-                                                           class="btn btn-outline-success" title="Mark as Read">
-                                                            <i class="fas fa-check"></i>
-                                                        </a>
-                                                    <?php endif; ?>
-                                                    <button type="button" class="btn btn-outline-info view-message" 
-                                                            data-bs-toggle="modal" data-bs-target="#messageModal"
-                                                            data-message="<?php echo htmlspecialchars($message['message']); ?>"
-                                                            data-name="<?php echo htmlspecialchars($message['name']); ?>"
-                                                            data-email="<?php echo $message['email']; ?>"
-                                                            data-phone="<?php echo $message['phone']; ?>"
-                                                            data-subject="<?php echo htmlspecialchars($message['subject']); ?>"
-                                                            data-date="<?php echo formatDate($message['created_at']); ?>">
-                                                        <i class="fas fa-eye"></i>
-                                                    </button>
-                                                    <a href="messages.php?delete_message=<?php echo $message['id']; ?>" 
-                                                       class="btn btn-outline-danger" 
-                                                       onclick="return confirm('Delete this message?')"
-                                                       title="Delete Message">
-                                                        <i class="fas fa-trash"></i>
-                                                    </a>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                        <?php endforeach; ?>
-                                    </tbody>
-                                </table>
-                            </div>
-                        <?php endif; ?>
-                    </div>
-                </div>
-            </main>
-        </div>
-    </div>
-
-    <!-- Message Modal -->
-    <div class="modal fade" id="messageModal" tabindex="-1">
-        <div class="modal-dialog modal-lg">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="messageModalTitle">Message Details</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-                </div>
-                <div class="modal-body">
-                    <div class="row mb-3">
-                        <div class="col-md-6">
-                            <strong>Name:</strong> <span id="modalName"></span>
-                        </div>
-                        <div class="col-md-6">
-                            <strong>Email:</strong> <span id="modalEmail"></span>
-                        </div>
-                    </div>
-                    <div class="row mb-3">
-                        <div class="col-md-6">
-                            <strong>Phone:</strong> <span id="modalPhone"></span>
-                        </div>
-                        <div class="col-md-6">
-                            <strong>Date:</strong> <span id="modalDate"></span>
-                        </div>
-                    </div>
-                    <div class="mb-3">
-                        <strong>Subject:</strong> <span id="modalSubject"></span>
-                    </div>
-                    <div class="mb-3">
-                        <strong>Message:</strong>
-                        <div class="border p-3 mt-2 bg-light" id="modalMessage"></div>
-                    </div>
-                </div>
-                <div class="modal-footer">
-                    <a href="#" id="modalReplyLink" class="btn btn-primary">
-                        <i class="fas fa-reply me-1"></i>Reply via Email
-                    </a>
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                </div>
+<section class="card">
+  <?php if (!$messages): ?>
+    <div class="empty"><strong><?= $view === 'archived' ? 'Nothing archived' : 'Inbox is empty' ?></strong>Messages sent through the website’s contact form appear here.</div>
+  <?php else: ?>
+    <div class="msg-list">
+      <?php foreach ($messages as $m): ?>
+        <article class="msg <?= $m['status'] === 'new' ? 'is-new' : '' ?>">
+          <div>
+            <strong><?= e($m['name']) ?></strong> <?= $m['status'] === 'new' ? status_badge('new') : '' ?>
+            <div class="msg-meta">
+              <?php if ($m['email']): ?><a href="mailto:<?= e($m['email']) ?>?subject=<?= rawurlencode('Re: ' . ($m['subject'] ?: 'Your enquiry')) ?>"><?= e($m['email']) ?></a><?php endif; ?>
+              <?php if ($m['phone']): ?> · <a href="tel:<?= e(preg_replace('/[^0-9+]/', '', $m['phone'])) ?>"><?= e($m['phone']) ?></a><?php endif; ?>
+              · <?= format_date($m['created_at'], 'j M Y, H:i') ?>
             </div>
-        </div>
+            <?php if ($m['subject']): ?><div style="font-weight:600;margin-top:6px"><?= e($m['subject']) ?></div><?php endif; ?>
+          </div>
+          <div class="msg-actions">
+            <form method="post" class="inline">
+              <?= csrf_field() ?><input type="hidden" name="id" value="<?= (int) $m['id'] ?>">
+              <?php if ($m['status'] === 'new'): ?>
+                <button class="btn btn-ghost btn-sm" name="action" value="read">Mark read</button>
+              <?php elseif ($m['status'] === 'read'): ?>
+                <button class="btn btn-ghost btn-sm" name="action" value="new">Mark unread</button>
+              <?php endif; ?>
+              <?php if ($m['status'] !== 'archived'): ?>
+                <button class="btn btn-ghost btn-sm" name="action" value="archived">Archive</button>
+              <?php else: ?>
+                <button class="btn btn-ghost btn-sm" name="action" value="read">Restore</button>
+              <?php endif; ?>
+            </form>
+            <?= delete_button('messages.php?view=' . $view, (int) $m['id'], 'message') ?>
+          </div>
+          <div class="msg-body"><?= e($m['message']) ?></div>
+        </article>
+      <?php endforeach; ?>
     </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const viewButtons = document.querySelectorAll('.view-message');
-            
-            viewButtons.forEach(button => {
-                button.addEventListener('click', function() {
-                    document.getElementById('modalName').textContent = this.dataset.name;
-                    document.getElementById('modalEmail').textContent = this.dataset.email;
-                    document.getElementById('modalPhone').textContent = this.dataset.phone || 'N/A';
-                    document.getElementById('modalSubject').textContent = this.dataset.subject;
-                    document.getElementById('modalDate').textContent = this.dataset.date;
-                    document.getElementById('modalMessage').textContent = this.dataset.message;
-                    
-                    // Set reply link
-                    const replyLink = document.getElementById('modalReplyLink');
-                    replyLink.href = 'mailto:' + this.dataset.email + '?subject=Re: ' + encodeURIComponent(this.dataset.subject);
-                });
-            });
-        });
-    </script>
-</body>
-</html>
+    <?= pagination($page, $pages, ['view' => $view]) ?>
+  <?php endif; ?>
+</section>
+<?php admin_footer();

@@ -1,0 +1,6 @@
+# Applies when this folder is copied into a site's web root.
+# Block config, source, schema and CLI scripts from the web.
+<FilesMatch "^(\.env.*|schema\.sql|seed_admin\.php|README\.md|deploy\.sh)$">
+  Require all denied
+</FilesMatch>
+Options -Indexes
