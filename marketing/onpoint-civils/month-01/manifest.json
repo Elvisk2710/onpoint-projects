@@ -1,0 +1,17 @@
+{
+  "type": "Monthly marketing content pack",
+  "month": "Undated Month 1",
+  "days": 30,
+  "timezone": "Africa/Harare",
+  "source_strategy": "../../onpoint-civils-30-day-plan.md",
+  "feed_png_count": 30,
+  "story_png_count": 30,
+  "carousel_png_count": 20,
+  "generated_poster_count": 1,
+  "editable_svg_count": 80,
+  "article_draft_count": 4,
+  "publishing_status": "Not published or scheduled",
+  "original_generated_posters": "Copied unchanged from image generation tool output",
+  "template_graphics": "New typographic artwork rendered from editable vector-equivalent layouts",
+  "real_media": "Production scripts only; customer and team footage required for authentic showcase upgrades"
+}
