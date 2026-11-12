@@ -13,5 +13,9 @@
   "publishing_status": "Not published or scheduled",
   "original_generated_posters": "Copied unchanged from image generation tool output",
   "template_graphics": "New typographic artwork rendered from editable vector-equivalent layouts",
-  "real_media": "Production scripts only; customer and team footage required for authentic showcase upgrades"
+  "real_media": "Production scripts only; customer and team footage required for authentic showcase upgrades",
+  "lifestyle_poster_count": 30,
+  "primary_artwork": "images/lifestyle/day-01.png through day-30.png",
+  "creative_direction": "Warm, contemporary modern African lifestyle; attractive well-maintained current settings",
+  "story_format": "Same portrait original, fit to frame; not a separate 9:16 export"
 }
