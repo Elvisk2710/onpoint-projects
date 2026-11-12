@@ -12,3 +12,7 @@ Source: `../../shieldtrac-security-30-day-plan.md` and repository website CSS/pr
 - Templates, offers and carousel layouts are in `editable/`; PNG exports are in `images/`.
 - Sample set: generated educational poster, Day 01 brand/service introduction, and Day 05 quotation enquiry card.
 - Never invent customer results, reviews, employees, project quantities, accreditation or response guarantees.
+
+## Current campaign direction
+
+The primary collection is now 30 photo-led posters in `images/lifestyle/`, indexed by `POSTERS.md`. Use warm, contemporary African settings, modern well-maintained homes and businesses, current professional equipment and natural human interactions. Avoid dilapidation or dated surroundings as a shorthand for local identity. Poster text is intentionally brief; detailed educational content belongs in the accompanying caption. The original full-resolution image outputs are preserved unchanged.

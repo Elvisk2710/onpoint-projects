@@ -1,14 +1,14 @@
-# OnPoint Hygiene & Fumigation — Month 1 content pack
+# Month 1 — contemporary African lifestyle posters
 
-Undated 30-day sequence. Day 1 is Monday. All times are Africa/Harare (CAT, UTC+2). No publishing or scheduling has been performed.
+30 distinct daily posters with modern Zimbabwean homes, workplaces, businesses and infrastructure. All scenes and models are illustrative image-generated advertising.
 
-## Day 01 — Clean spaces start with a clear plan.
+## Day 01 — A clean home. A Saturday that’s yours.
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-01.png` and `images/story/day-01.png`.
+[Open poster](images/lifestyle/day-01.png)
 
-**Facebook / Instagram caption**
+**Facebook / Instagram**
 
-Clean spaces start with a clear plan.
+A clean home. A Saturday that’s yours.
 
 • Office and contract cleaning.
 • Home and occupancy deep cleaning.
@@ -18,9 +18,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Clean spaces start with a clear plan.
+A clean home. A Saturday that’s yours.
 
 Office and contract cleaning. Home and occupancy deep cleaning. Pest-control enquiries and assessments.
 
@@ -28,31 +28,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Clean spaces start with a clear plan.
+A clean home. A Saturday that’s yours.
 Office and contract cleaning.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Clean spaces start with a clear plan. Office and contract cleaning. Home and occupancy deep cleaning. Pest-control enquiries and assessments. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+A clean home. A Saturday that’s yours. Office and contract cleaning. Home and occupancy deep cleaning. Pest-control enquiries and assessments. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Clean spaces start with a clear plan. Office and contract cleaning; Home and occupancy deep cleaning; Pest-control enquiries and assessments. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: A clean home. A Saturday that’s yours. Topic: Clean spaces start with a clear plan.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 02 — Small signs are worth a closer look.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Clean spaces start with a clear plan.". Supporting points: Office and contract cleaning; Home and occupancy deep cleaning; Pest-control enquiries and assessments. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-02.png)
 
-## Day 02 — Cockroach signs worth checking.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-02.png` and `images/story/day-02.png`.
-
-**Facebook / Instagram caption**
-
-Cockroach signs worth checking.
+Small signs are worth a closer look.
 
 • Look for droppings or shed skins.
 • Check dark gaps near food and moisture.
@@ -62,9 +58,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Cockroach signs worth checking.
+Small signs are worth a closer look.
 
 Look for droppings or shed skins. Check dark gaps near food and moisture. Sightings need assessment, not guesswork.
 
@@ -72,31 +68,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Cockroach signs worth checking.
+Small signs are worth a closer look.
 Look for droppings or shed skins.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Cockroach signs worth checking. Look for droppings or shed skins. Check dark gaps near food and moisture. Sightings need assessment, not guesswork. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Small signs are worth a closer look. Look for droppings or shed skins. Check dark gaps near food and moisture. Sightings need assessment, not guesswork. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Cockroach signs worth checking. Look for droppings or shed skins; Check dark gaps near food and moisture; Sightings need assessment, not guesswork. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Small signs are worth a closer look. Topic: Cockroach signs worth checking.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 03 — It starts with understanding your space.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Cockroach signs worth checking.". Supporting points: Look for droppings or shed skins; Check dark gaps near food and moisture; Sightings need assessment, not guesswork. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-03.png)
 
-## Day 03 — What to ask your cleaning team.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-03.png` and `images/story/day-03.png`.
-
-**Facebook / Instagram caption**
-
-What to ask your cleaning team.
+It starts with understanding your space.
 
 • Which areas are included in the scope?.
 • Which products suit each surface?.
@@ -106,9 +98,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-What to ask your cleaning team.
+It starts with understanding your space.
 
 Which areas are included in the scope?. Which products suit each surface?. How will access and work hours be arranged?.
 
@@ -116,31 +108,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-What to ask your cleaning team.
+It starts with understanding your space.
 Which areas are included in the scope?.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-What to ask your cleaning team. Which areas are included in the scope?. Which products suit each surface?. How will access and work hours be arranged?. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+It starts with understanding your space. Which areas are included in the scope?. Which products suit each surface?. How will access and work hours be arranged?. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: What to ask your cleaning team. Which areas are included in the scope?; Which products suit each surface?; How will access and work hours be arranged?. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: It starts with understanding your space. Topic: What to ask your cleaning team.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 04 — The little details people remember.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "What to ask your cleaning team.". Supporting points: Which areas are included in the scope?; Which products suit each surface?; How will access and work hours be arranged?. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-04.png)
 
-## Day 04 — What does a useful cleaning review describe?
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-04.png` and `images/story/day-04.png`.
-
-**Facebook / Instagram caption**
-
-What does a useful cleaning review describe?
+The little details people remember.
 
 • The service that was booked.
 • How the team communicated.
@@ -150,9 +138,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-What does a useful cleaning review describe?
+The little details people remember.
 
 The service that was booked. How the team communicated. The customer's own experience.
 
@@ -160,31 +148,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-What does a useful cleaning review describe?
+The little details people remember.
 The service that was booked.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-What does a useful cleaning review describe? The service that was booked. How the team communicated. The customer's own experience. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+The little details people remember. The service that was booked. How the team communicated. The customer's own experience. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: What does a useful cleaning review describe? The service that was booked; How the team communicated; The customer's own experience. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: The little details people remember. Topic: What does a useful cleaning review describe?. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 05 — A fresh start for your working day.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "What does a useful cleaning review describe?". Supporting points: The service that was booked; How the team communicated; The customer's own experience. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-05.png)
 
-## Day 05 — Give your office a cleaning plan.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-05.png` and `images/story/day-05.png`.
-
-**Facebook / Instagram caption**
-
-Give your office a cleaning plan.
+A fresh start for your working day.
 
 • Tell us your floor areas and occupancy.
 • Identify high-traffic and shared spaces.
@@ -194,9 +178,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Give your office a cleaning plan.
+A fresh start for your working day.
 
 Tell us your floor areas and occupancy. Identify high-traffic and shared spaces. Ask for a scope and quotation.
 
@@ -204,31 +188,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Give your office a cleaning plan.
+A fresh start for your working day.
 Tell us your floor areas and occupancy.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Give your office a cleaning plan. Tell us your floor areas and occupancy. Identify high-traffic and shared spaces. Ask for a scope and quotation. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+A fresh start for your working day. Tell us your floor areas and occupancy. Identify high-traffic and shared spaces. Ask for a scope and quotation. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Give your office a cleaning plan. Tell us your floor areas and occupancy; Identify high-traffic and shared spaces; Ask for a scope and quotation. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: A fresh start for your working day. Topic: Give your office a cleaning plan.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 06 — Make room for a slower Saturday.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Give your office a cleaning plan.". Supporting points: Tell us your floor areas and occupancy; Identify high-traffic and shared spaces; Ask for a scope and quotation. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-06.png)
 
-## Day 06 — Your weekend kitchen reset.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-06.png` and `images/story/day-06.png`.
-
-**Facebook / Instagram caption**
-
-Your weekend kitchen reset.
+Make room for a slower Saturday.
 
 • Clear crumbs and spills.
 • Wipe handles and switches.
@@ -238,9 +218,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Your weekend kitchen reset.
+Make room for a slower Saturday.
 
 Clear crumbs and spills. Wipe handles and switches. Empty and clean the bin.
 
@@ -248,31 +228,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Your weekend kitchen reset.
+Make room for a slower Saturday.
 Clear crumbs and spills.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Your weekend kitchen reset. Clear crumbs and spills. Wipe handles and switches. Empty and clean the bin. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Make room for a slower Saturday. Clear crumbs and spills. Wipe handles and switches. Empty and clean the bin. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Your weekend kitchen reset. Clear crumbs and spills; Wipe handles and switches; Empty and clean the bin. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Make room for a slower Saturday. Topic: Your weekend kitchen reset.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 07 — Before treatment, ask the right questions.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Your weekend kitchen reset.". Supporting points: Clear crumbs and spills; Wipe handles and switches; Empty and clean the bin. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-07.png)
 
-## Day 07 — Pest treatment: ask about re-entry.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-07.png` and `images/story/day-07.png`.
-
-**Facebook / Instagram caption**
-
-Pest treatment: ask about re-entry.
+Before treatment, ask the right questions.
 
 • Instructions depend on the product and method.
 • Discuss children, pets and sensitive occupants.
@@ -282,9 +258,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Pest treatment: ask about re-entry.
+Before treatment, ask the right questions.
 
 Instructions depend on the product and method. Discuss children, pets and sensitive occupants. Follow the technician's written directions.
 
@@ -292,31 +268,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Pest treatment: ask about re-entry.
+Before treatment, ask the right questions.
 Instructions depend on the product and method.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Pest treatment: ask about re-entry. Instructions depend on the product and method. Discuss children, pets and sensitive occupants. Follow the technician's written directions. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Before treatment, ask the right questions. Instructions depend on the product and method. Discuss children, pets and sensitive occupants. Follow the technician's written directions. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Pest treatment: ask about re-entry. Instructions depend on the product and method; Discuss children, pets and sensitive occupants; Follow the technician's written directions. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Before treatment, ask the right questions. Topic: Pest treatment: ask about re-entry.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 08 — A kitchen ready for its next chapter.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Pest treatment: ask about re-entry.". Supporting points: Instructions depend on the product and method; Discuss children, pets and sensitive occupants; Follow the technician's written directions. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-08.png)
 
-## Day 08 — A kitchen deep clean needs a sequence.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-08.png` and `images/story/day-08.png`.
-
-**Facebook / Instagram caption**
-
-A kitchen deep clean needs a sequence.
+A kitchen ready for its next chapter.
 
 • Remove food and protect sensitive items.
 • Work through surfaces using suitable products.
@@ -326,9 +298,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-A kitchen deep clean needs a sequence.
+A kitchen ready for its next chapter.
 
 Remove food and protect sensitive items. Work through surfaces using suitable products. Check the agreed areas before handover.
 
@@ -336,31 +308,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-A kitchen deep clean needs a sequence.
+A kitchen ready for its next chapter.
 Remove food and protect sensitive items.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-A kitchen deep clean needs a sequence. Remove food and protect sensitive items. Work through surfaces using suitable products. Check the agreed areas before handover. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+A kitchen ready for its next chapter. Remove food and protect sensitive items. Work through surfaces using suitable products. Check the agreed areas before handover. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: A kitchen deep clean needs a sequence. Remove food and protect sensitive items; Work through surfaces using suitable products; Check the agreed areas before handover. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: A kitchen ready for its next chapter. Topic: A kitchen deep clean needs a sequence.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 09 — Not sure what you’re seeing? Ask.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "A kitchen deep clean needs a sequence.". Supporting points: Remove food and protect sensitive items; Work through surfaces using suitable products; Check the agreed areas before handover. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-09.png)
 
-## Day 09 — Possible bedbug signs to discuss.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-09.png` and `images/story/day-09.png`.
-
-**Facebook / Instagram caption**
-
-Possible bedbug signs to discuss.
+Not sure what you’re seeing? Ask.
 
 • Check mattress seams for dark spotting.
 • Look for shed skins or live insects.
@@ -370,9 +338,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Possible bedbug signs to discuss.
+Not sure what you’re seeing? Ask.
 
 Check mattress seams for dark spotting. Look for shed skins or live insects. Bites alone cannot confirm an infestation.
 
@@ -380,31 +348,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Possible bedbug signs to discuss.
+Not sure what you’re seeing? Ask.
 Check mattress seams for dark spotting.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Possible bedbug signs to discuss. Check mattress seams for dark spotting. Look for shed skins or live insects. Bites alone cannot confirm an infestation. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Not sure what you’re seeing? Ask. Check mattress seams for dark spotting. Look for shed skins or live insects. Bites alone cannot confirm an infestation. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Possible bedbug signs to discuss. Check mattress seams for dark spotting; Look for shed skins or live insects; Bites alone cannot confirm an infestation. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Not sure what you’re seeing? Ask. Topic: Possible bedbug signs to discuss.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 10 — Good cleaning starts with a plan.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Possible bedbug signs to discuss.". Supporting points: Check mattress seams for dark spotting; Look for shed skins or live insects; Bites alone cannot confirm an infestation. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-10.png)
 
-## Day 10 — Cleaning well starts before the first wipe.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-10.png` and `images/story/day-10.png`.
-
-**Facebook / Instagram caption**
-
-Cleaning well starts before the first wipe.
+Good cleaning starts with a plan.
 
 • Confirm the task and surface type.
 • Choose suitable equipment and products.
@@ -414,9 +378,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Cleaning well starts before the first wipe.
+Good cleaning starts with a plan.
 
 Confirm the task and surface type. Choose suitable equipment and products. Follow product directions and site rules.
 
@@ -424,31 +388,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Cleaning well starts before the first wipe.
+Good cleaning starts with a plan.
 Confirm the task and surface type.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Cleaning well starts before the first wipe. Confirm the task and surface type. Choose suitable equipment and products. Follow product directions and site rules. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Good cleaning starts with a plan. Confirm the task and surface type. Choose suitable equipment and products. Follow product directions and site rules. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Cleaning well starts before the first wipe. Confirm the task and surface type; Choose suitable equipment and products; Follow product directions and site rules. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Good cleaning starts with a plan. Topic: Cleaning well starts before the first wipe.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 11 — A better routine for a busy office.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Cleaning well starts before the first wipe.". Supporting points: Confirm the task and surface type; Choose suitable equipment and products; Follow product directions and site rules. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-11.png)
 
-## Day 11 — Build an office cleaning checklist.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-11.png` and `images/story/day-11.png`.
-
-**Facebook / Instagram caption**
-
-Build an office cleaning checklist.
+A better routine for a busy office.
 
 • List rooms and high-touch surfaces.
 • Assign a cleaning frequency to each area.
@@ -458,9 +418,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Build an office cleaning checklist.
+A better routine for a busy office.
 
 List rooms and high-touch surfaces. Assign a cleaning frequency to each area. Record completion and raise issues.
 
@@ -468,31 +428,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Build an office cleaning checklist.
+A better routine for a busy office.
 List rooms and high-touch surfaces.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Build an office cleaning checklist. List rooms and high-touch surfaces. Assign a cleaning frequency to each area. Record completion and raise issues. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+A better routine for a busy office. List rooms and high-touch surfaces. Assign a cleaning frequency to each area. Record completion and raise issues. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Build an office cleaning checklist. List rooms and high-touch surfaces; Assign a cleaning frequency to each area; Record completion and raise issues. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: A better routine for a busy office. Topic: Build an office cleaning checklist.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 12 — Which room would you start with?
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Build an office cleaning checklist.". Supporting points: List rooms and high-touch surfaces; Assign a cleaning frequency to each area; Record completion and raise issues. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-12.png)
 
-## Day 12 — Which room needs attention first?
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-12.png` and `images/story/day-12.png`.
-
-**Facebook / Instagram caption**
-
-Which room needs attention first?
+Which room would you start with?
 
 • Kitchen surfaces and hidden crumbs.
 • Bathrooms and high-touch points.
@@ -502,9 +458,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Which room needs attention first?
+Which room would you start with?
 
 Kitchen surfaces and hidden crumbs. Bathrooms and high-touch points. Carpets and upholstery.
 
@@ -512,31 +468,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Which room needs attention first?
+Which room would you start with?
 Kitchen surfaces and hidden crumbs.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Which room needs attention first? Kitchen surfaces and hidden crumbs. Bathrooms and high-touch points. Carpets and upholstery. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Which room would you start with? Kitchen surfaces and hidden crumbs. Bathrooms and high-touch points. Carpets and upholstery. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Which room needs attention first? Kitchen surfaces and hidden crumbs; Bathrooms and high-touch points; Carpets and upholstery. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Which room would you start with? Topic: Which room needs attention first?. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 13 — A fresh start behind the fridge door.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Which room needs attention first?". Supporting points: Kitchen surfaces and hidden crumbs; Bathrooms and high-touch points; Carpets and upholstery. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-13.png)
 
-## Day 13 — A practical fridge reset.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-13.png` and `images/story/day-13.png`.
-
-**Facebook / Instagram caption**
-
-A practical fridge reset.
+A fresh start behind the fridge door.
 
 • Move food into suitable cold storage.
 • Follow appliance instructions for cleaning.
@@ -546,9 +498,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-A practical fridge reset.
+A fresh start behind the fridge door.
 
 Move food into suitable cold storage. Follow appliance instructions for cleaning. Dry, restock and review food dates.
 
@@ -556,31 +508,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-A practical fridge reset.
+A fresh start behind the fridge door.
 Move food into suitable cold storage.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-A practical fridge reset. Move food into suitable cold storage. Follow appliance instructions for cleaning. Dry, restock and review food dates. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+A fresh start behind the fridge door. Move food into suitable cold storage. Follow appliance instructions for cleaning. Dry, restock and review food dates. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: A practical fridge reset. Move food into suitable cold storage; Follow appliance instructions for cleaning; Dry, restock and review food dates. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: A fresh start behind the fridge door. Topic: A practical fridge reset.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 14 — Look beyond what you can see.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "A practical fridge reset.". Supporting points: Move food into suitable cold storage; Follow appliance instructions for cleaning; Dry, restock and review food dates. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-14.png)
 
-## Day 14 — Seeing fewer pests is not the whole picture.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-14.png` and `images/story/day-14.png`.
-
-**Facebook / Instagram caption**
-
-Seeing fewer pests is not the whole picture.
+Look beyond what you can see.
 
 • Visible pests may be part of the problem.
 • Food, water and entry points also matter.
@@ -590,9 +538,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Seeing fewer pests is not the whole picture.
+Look beyond what you can see.
 
 Visible pests may be part of the problem. Food, water and entry points also matter. Ask about follow-up and prevention.
 
@@ -600,31 +548,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Seeing fewer pests is not the whole picture.
+Look beyond what you can see.
 Visible pests may be part of the problem.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Seeing fewer pests is not the whole picture. Visible pests may be part of the problem. Food, water and entry points also matter. Ask about follow-up and prevention. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Look beyond what you can see. Visible pests may be part of the problem. Food, water and entry points also matter. Ask about follow-up and prevention. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Seeing fewer pests is not the whole picture. Visible pests may be part of the problem; Food, water and entry points also matter; Ask about follow-up and prevention. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Look beyond what you can see. Topic: Seeing fewer pests is not the whole picture.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 15 — New keys. A fresh beginning.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Seeing fewer pests is not the whole picture.". Supporting points: Visible pests may be part of the problem; Food, water and entry points also matter; Ask about follow-up and prevention. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-15.png)
 
-## Day 15 — Moving out? Plan the clean early.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-15.png` and `images/story/day-15.png`.
-
-**Facebook / Instagram caption**
-
-Moving out? Plan the clean early.
+New keys. A fresh beginning.
 
 • Confirm the landlord's cleaning requirements.
 • Arrange access after belongings are removed.
@@ -634,9 +578,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Moving out? Plan the clean early.
+New keys. A fresh beginning.
 
 Confirm the landlord's cleaning requirements. Arrange access after belongings are removed. Ask for a written scope and quotation.
 
@@ -644,31 +588,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Moving out? Plan the clean early.
+New keys. A fresh beginning.
 Confirm the landlord's cleaning requirements.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Moving out? Plan the clean early. Confirm the landlord's cleaning requirements. Arrange access after belongings are removed. Ask for a written scope and quotation. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+New keys. A fresh beginning. Confirm the landlord's cleaning requirements. Arrange access after belongings are removed. Ask for a written scope and quotation. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Moving out? Plan the clean early. Confirm the landlord's cleaning requirements; Arrange access after belongings are removed; Ask for a written scope and quotation. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: New keys. A fresh beginning. Topic: Moving out? Plan the clean early.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 16 — A sound in the ceiling? Let’s talk.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Moving out? Plan the clean early.". Supporting points: Confirm the landlord's cleaning requirements; Arrange access after belongings are removed; Ask for a written scope and quotation. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-16.png)
 
-## Day 16 — Scratching in the ceiling? Check carefully.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-16.png` and `images/story/day-16.png`.
-
-**Facebook / Instagram caption**
-
-Scratching in the ceiling? Check carefully.
+A sound in the ceiling? Let’s talk.
 
 • Look for droppings and gnaw marks.
 • Keep food and waste securely stored.
@@ -678,9 +618,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Scratching in the ceiling? Check carefully.
+A sound in the ceiling? Let’s talk.
 
 Look for droppings and gnaw marks. Keep food and waste securely stored. Ask for an assessment of the suspected pest.
 
@@ -688,31 +628,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Scratching in the ceiling? Check carefully.
+A sound in the ceiling? Let’s talk.
 Look for droppings and gnaw marks.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Scratching in the ceiling? Check carefully. Look for droppings and gnaw marks. Keep food and waste securely stored. Ask for an assessment of the suspected pest. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+A sound in the ceiling? Let’s talk. Look for droppings and gnaw marks. Keep food and waste securely stored. Ask for an assessment of the suspected pest. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Scratching in the ceiling? Check carefully. Look for droppings and gnaw marks; Keep food and waste securely stored; Ask for an assessment of the suspected pest. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: A sound in the ceiling? Let’s talk. Topic: Scratching in the ceiling? Check carefully.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 17 — Know what’s being used in your home.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Scratching in the ceiling? Check carefully.". Supporting points: Look for droppings and gnaw marks; Keep food and waste securely stored; Ask for an assessment of the suspected pest. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-17.png)
 
-## Day 17 — Know what is being used in your space.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-17.png` and `images/story/day-17.png`.
-
-**Facebook / Instagram caption**
-
-Know what is being used in your space.
+Know what’s being used in your home.
 
 • Ask for the product and its intended use.
 • Discuss ventilation and occupant precautions.
@@ -722,9 +658,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Know what is being used in your space.
+Know what’s being used in your home.
 
 Ask for the product and its intended use. Discuss ventilation and occupant precautions. Follow label and technician instructions.
 
@@ -732,31 +668,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Know what is being used in your space.
+Know what’s being used in your home.
 Ask for the product and its intended use.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Know what is being used in your space. Ask for the product and its intended use. Discuss ventilation and occupant precautions. Follow label and technician instructions. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Know what’s being used in your home. Ask for the product and its intended use. Discuss ventilation and occupant precautions. Follow label and technician instructions. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Know what is being used in your space. Ask for the product and its intended use; Discuss ventilation and occupant precautions; Follow label and technician instructions. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Know what’s being used in your home. Topic: Know what is being used in your space.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 18 — Know what happens next.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Know what is being used in your space.". Supporting points: Ask for the product and its intended use; Discuss ventilation and occupant precautions; Follow label and technician instructions. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-18.png)
 
-## Day 18 — What to expect from a pest-control visit.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-18.png` and `images/story/day-18.png`.
-
-**Facebook / Instagram caption**
-
-What to expect from a pest-control visit.
+Know what happens next.
 
 • Describe what you have seen and where.
 • Ask how the pest will be identified.
@@ -766,9 +698,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-What to expect from a pest-control visit.
+Know what happens next.
 
 Describe what you have seen and where. Ask how the pest will be identified. Confirm preparation and follow-up instructions.
 
@@ -776,31 +708,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-What to expect from a pest-control visit.
+Know what happens next.
 Describe what you have seen and where.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-What to expect from a pest-control visit. Describe what you have seen and where. Ask how the pest will be identified. Confirm preparation and follow-up instructions. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Know what happens next. Describe what you have seen and where. Ask how the pest will be identified. Confirm preparation and follow-up instructions. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: What to expect from a pest-control visit. Describe what you have seen and where; Ask how the pest will be identified; Confirm preparation and follow-up instructions. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Know what happens next. Topic: What to expect from a pest-control visit.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 19 — Know a business that could use a hand?
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "What to expect from a pest-control visit.". Supporting points: Describe what you have seen and where; Ask how the pest will be identified; Confirm preparation and follow-up instructions. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-19.png)
 
-## Day 19 — Know a business that needs a cleaning plan?
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-19.png` and `images/story/day-19.png`.
-
-**Facebook / Instagram caption**
-
-Know a business that needs a cleaning plan?
+Know a business that could use a hand?
 
 • Share our contact with its facilities team.
 • Ask them to describe their cleaning needs.
@@ -810,9 +738,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Know a business that needs a cleaning plan?
+Know a business that could use a hand?
 
 Share our contact with its facilities team. Ask them to describe their cleaning needs. We can discuss scope and quotation.
 
@@ -820,31 +748,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Know a business that needs a cleaning plan?
+Know a business that could use a hand?
 Share our contact with its facilities team.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Know a business that needs a cleaning plan? Share our contact with its facilities team. Ask them to describe their cleaning needs. We can discuss scope and quotation. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Know a business that could use a hand? Share our contact with its facilities team. Ask them to describe their cleaning needs. We can discuss scope and quotation. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Know a business that needs a cleaning plan? Share our contact with its facilities team; Ask them to describe their cleaning needs; We can discuss scope and quotation. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Know a business that could use a hand? Topic: Know a business that needs a cleaning plan?. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 20 — A favourite sofa deserves some care.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Know a business that needs a cleaning plan?". Supporting points: Share our contact with its facilities team; Ask them to describe their cleaning needs; We can discuss scope and quotation. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-20.png)
 
-## Day 20 — Before booking upholstery cleaning.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-20.png` and `images/story/day-20.png`.
-
-**Facebook / Instagram caption**
-
-Before booking upholstery cleaning.
+A favourite sofa deserves some care.
 
 • Tell us the fabric and care-label details.
 • Mention stains and previous treatments.
@@ -854,9 +778,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Before booking upholstery cleaning.
+A favourite sofa deserves some care.
 
 Tell us the fabric and care-label details. Mention stains and previous treatments. Ask about suitability and drying time.
 
@@ -864,31 +788,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Before booking upholstery cleaning.
+A favourite sofa deserves some care.
 Tell us the fabric and care-label details.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Before booking upholstery cleaning. Tell us the fabric and care-label details. Mention stains and previous treatments. Ask about suitability and drying time. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+A favourite sofa deserves some care. Tell us the fabric and care-label details. Mention stains and previous treatments. Ask about suitability and drying time. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Before booking upholstery cleaning. Tell us the fabric and care-label details; Mention stains and previous treatments; Ask about suitability and drying time. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: A favourite sofa deserves some care. Topic: Before booking upholstery cleaning.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 21 — A few questions. A clearer plan.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Before booking upholstery cleaning.". Supporting points: Tell us the fabric and care-label details; Mention stains and previous treatments; Ask about suitability and drying time. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-21.png)
 
-## Day 21 — Three questions before you book.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-21.png` and `images/story/day-21.png`.
-
-**Facebook / Instagram caption**
-
-Three questions before you book.
+A few questions. A clearer plan.
 
 • What is included in the service?.
 • What preparation is required?.
@@ -898,9 +818,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Three questions before you book.
+A few questions. A clearer plan.
 
 What is included in the service?. What preparation is required?. When can the area be used again?.
 
@@ -908,31 +828,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Three questions before you book.
+A few questions. A clearer plan.
 What is included in the service?.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Three questions before you book. What is included in the service?. What preparation is required?. When can the area be used again?. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+A few questions. A clearer plan. What is included in the service?. What preparation is required?. When can the area be used again?. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Three questions before you book. What is included in the service?; What preparation is required?; When can the area be used again?. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: A few questions. A clearer plan. Topic: Three questions before you book.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 22 — Big spaces need a thoughtful approach.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Three questions before you book.". Supporting points: What is included in the service?; What preparation is required?; When can the area be used again?. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-22.png)
 
-## Day 22 — Warehouse cleaning needs coordination.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-22.png` and `images/story/day-22.png`.
-
-**Facebook / Instagram caption**
-
-Warehouse cleaning needs coordination.
+Big spaces need a thoughtful approach.
 
 • Identify traffic routes and work zones.
 • Agree access around operations.
@@ -942,9 +858,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Warehouse cleaning needs coordination.
+Big spaces need a thoughtful approach.
 
 Identify traffic routes and work zones. Agree access around operations. Match the method to surfaces and risks.
 
@@ -952,31 +868,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Warehouse cleaning needs coordination.
+Big spaces need a thoughtful approach.
 Identify traffic routes and work zones.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Warehouse cleaning needs coordination. Identify traffic routes and work zones. Agree access around operations. Match the method to surfaces and risks. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Big spaces need a thoughtful approach. Identify traffic routes and work zones. Agree access around operations. Match the method to surfaces and risks. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Warehouse cleaning needs coordination. Identify traffic routes and work zones; Agree access around operations; Match the method to surfaces and risks. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Big spaces need a thoughtful approach. Topic: Warehouse cleaning needs coordination.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 23 — Prepare your home for the rains.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Warehouse cleaning needs coordination.". Supporting points: Identify traffic routes and work zones; Agree access around operations; Match the method to surfaces and risks. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-23.png)
 
-## Day 23 — Rainy-season pest prevention.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-23.png` and `images/story/day-23.png`.
-
-**Facebook / Instagram caption**
-
-Rainy-season pest prevention.
+Prepare your home for the rains.
 
 • Reduce standing water where practical.
 • Keep food and waste sealed.
@@ -986,9 +898,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Rainy-season pest prevention.
+Prepare your home for the rains.
 
 Reduce standing water where practical. Keep food and waste sealed. Repair leaks and check entry points.
 
@@ -996,31 +908,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Rainy-season pest prevention.
+Prepare your home for the rains.
 Reduce standing water where practical.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Rainy-season pest prevention. Reduce standing water where practical. Keep food and waste sealed. Repair leaks and check entry points. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Prepare your home for the rains. Reduce standing water where practical. Keep food and waste sealed. Repair leaks and check entry points. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Rainy-season pest prevention. Reduce standing water where practical; Keep food and waste sealed; Repair leaks and check entry points. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Prepare your home for the rains. Topic: Rainy-season pest prevention.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 24 — Little habits. A lighter day.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Rainy-season pest prevention.". Supporting points: Reduce standing water where practical; Keep food and waste sealed; Repair leaks and check entry points. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-24.png)
 
-## Day 24 — Small habits make cleaning easier.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-24.png` and `images/story/day-24.png`.
-
-**Facebook / Instagram caption**
-
-Small habits make cleaning easier.
+Little habits. A lighter day.
 
 • Put supplies back after use.
 • Deal with spills promptly.
@@ -1030,9 +938,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Small habits make cleaning easier.
+Little habits. A lighter day.
 
 Put supplies back after use. Deal with spills promptly. Keep shared worktops clear.
 
@@ -1040,31 +948,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Small habits make cleaning easier.
+Little habits. A lighter day.
 Put supplies back after use.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Small habits make cleaning easier. Put supplies back after use. Deal with spills promptly. Keep shared worktops clear. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Little habits. A lighter day. Put supplies back after use. Deal with spills promptly. Keep shared worktops clear. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Small habits make cleaning easier. Put supplies back after use; Deal with spills promptly; Keep shared worktops clear. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Little habits. A lighter day. Topic: Small habits make cleaning easier.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 25 — Your experience can help someone else.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Small habits make cleaning easier.". Supporting points: Put supplies back after use; Deal with spills promptly; Keep shared worktops clear. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-25.png)
 
-## Day 25 — Help the next customer choose.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-25.png` and `images/story/day-25.png`.
-
-**Facebook / Instagram caption**
-
-Help the next customer choose.
+Your experience can help someone else.
 
 • Describe the service you received.
 • Mention what helped you most.
@@ -1074,9 +978,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Help the next customer choose.
+Your experience can help someone else.
 
 Describe the service you received. Mention what helped you most. Share an honest review of your experience.
 
@@ -1084,31 +988,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Help the next customer choose.
+Your experience can help someone else.
 Describe the service you received.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Help the next customer choose. Describe the service you received. Mention what helped you most. Share an honest review of your experience. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Your experience can help someone else. Describe the service you received. Mention what helped you most. Share an honest review of your experience. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Help the next customer choose. Describe the service you received; Mention what helped you most; Share an honest review of your experience. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Your experience can help someone else. Topic: Help the next customer choose.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 26 — Tell us what needs a fresh start.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Help the next customer choose.". Supporting points: Describe the service you received; Mention what helped you most; Share an honest review of your experience. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-26.png)
 
-## Day 26 — Book a clean with a clear brief.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-26.png` and `images/story/day-26.png`.
-
-**Facebook / Instagram caption**
-
-Book a clean with a clear brief.
+Tell us what needs a fresh start.
 
 • Tell us the property type and location.
 • Describe the areas and priorities.
@@ -1118,9 +1018,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Book a clean with a clear brief.
+Tell us what needs a fresh start.
 
 Tell us the property type and location. Describe the areas and priorities. Ask about available dates and a quote.
 
@@ -1128,31 +1028,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Book a clean with a clear brief.
+Tell us what needs a fresh start.
 Tell us the property type and location.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Book a clean with a clear brief. Tell us the property type and location. Describe the areas and priorities. Ask about available dates and a quote. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Tell us what needs a fresh start. Tell us the property type and location. Describe the areas and priorities. Ask about available dates and a quote. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Book a clean with a clear brief. Tell us the property type and location; Describe the areas and priorities; Ask about available dates and a quote. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Tell us what needs a fresh start. Topic: Book a clean with a clear brief.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 27 — Make your guests feel at home.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Book a clean with a clear brief.". Supporting points: Tell us the property type and location; Describe the areas and priorities; Ask about available dates and a quote. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-27.png)
 
-## Day 27 — Hosting guests? Start with the basics.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-27.png` and `images/story/day-27.png`.
-
-**Facebook / Instagram caption**
-
-Hosting guests? Start with the basics.
+Make your guests feel at home.
 
 • Refresh bathrooms and high-touch surfaces.
 • Check kitchen surfaces and food storage.
@@ -1162,9 +1058,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Hosting guests? Start with the basics.
+Make your guests feel at home.
 
 Refresh bathrooms and high-touch surfaces. Check kitchen surfaces and food storage. Plan upholstery cleaning with drying time.
 
@@ -1172,31 +1068,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Hosting guests? Start with the basics.
+Make your guests feel at home.
 Refresh bathrooms and high-touch surfaces.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Hosting guests? Start with the basics. Refresh bathrooms and high-touch surfaces. Check kitchen surfaces and food storage. Plan upholstery cleaning with drying time. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Make your guests feel at home. Refresh bathrooms and high-touch surfaces. Check kitchen surfaces and food storage. Plan upholstery cleaning with drying time. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Hosting guests? Start with the basics. Refresh bathrooms and high-touch surfaces; Check kitchen surfaces and food storage; Plan upholstery cleaning with drying time. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Make your guests feel at home. Topic: Hosting guests? Start with the basics.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 28 — A plan that fits your space.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Hosting guests? Start with the basics.". Supporting points: Refresh bathrooms and high-touch surfaces; Check kitchen surfaces and food storage; Plan upholstery cleaning with drying time. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-28.png)
 
-## Day 28 — How often should pest control happen?
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-28.png` and `images/story/day-28.png`.
-
-**Facebook / Instagram caption**
-
-How often should pest control happen?
+A plan that fits your space.
 
 • The pest and setting affect the plan.
 • Monitoring helps identify new activity.
@@ -1206,9 +1098,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-How often should pest control happen?
+A plan that fits your space.
 
 The pest and setting affect the plan. Monitoring helps identify new activity. Ask for a schedule suited to your property.
 
@@ -1216,31 +1108,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-How often should pest control happen?
+A plan that fits your space.
 The pest and setting affect the plan.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-How often should pest control happen? The pest and setting affect the plan. Monitoring helps identify new activity. Ask for a schedule suited to your property. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+A plan that fits your space. The pest and setting affect the plan. Monitoring helps identify new activity. Ask for a schedule suited to your property. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: How often should pest control happen? The pest and setting affect the plan; Monitoring helps identify new activity; Ask for a schedule suited to your property. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: A plan that fits your space. Topic: How often should pest control happen?. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 29 — Good habits make a home.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "How often should pest control happen?". Supporting points: The pest and setting affect the plan; Monitoring helps identify new activity; Ask for a schedule suited to your property. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-29.png)
 
-## Day 29 — A month of better hygiene habits.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-29.png` and `images/story/day-29.png`.
-
-**Facebook / Instagram caption**
-
-A month of better hygiene habits.
+Good habits make a home.
 
 • Keep food and waste secure.
 • Clean high-touch areas routinely.
@@ -1250,9 +1138,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-A month of better hygiene habits.
+Good habits make a home.
 
 Keep food and waste secure. Clean high-touch areas routinely. Ask questions before treatment or cleaning.
 
@@ -1260,31 +1148,27 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-A month of better hygiene habits.
+Good habits make a home.
 Keep food and waste secure.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-A month of better hygiene habits. Keep food and waste secure. Clean high-touch areas routinely. Ask questions before treatment or cleaning. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Good habits make a home. Keep food and waste secure. Clean high-touch areas routinely. Ask questions before treatment or cleaning. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: A month of better hygiene habits. Keep food and waste secure; Clean high-touch areas routinely; Ask questions before treatment or cleaning. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Good habits make a home. Topic: A month of better hygiene habits.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 30 — Let’s take the next clean off your list.
 
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "A month of better hygiene habits.". Supporting points: Keep food and waste secure; Clean high-touch areas routinely; Ask questions before treatment or cleaning. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-30.png)
 
-## Day 30 — Your next clean starts here.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-30.png` and `images/story/day-30.png`.
-
-**Facebook / Instagram caption**
-
-Your next clean starts here.
+Let’s take the next clean off your list.
 
 • Office and home cleaning.
 • Deep cleaning and occupancy cleaning.
@@ -1294,9 +1178,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Your next clean starts here.
+Let’s take the next clean off your list.
 
 Office and home cleaning. Deep cleaning and occupancy cleaning. Contact us to discuss your requirements.
 
@@ -1304,20 +1188,16 @@ For scope and quotation enquiries, contact info@onpointhygienezw.co.zw or visit 
 
 #OnPointHygiene #CleaningServicesHarare #PestControlZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Your next clean starts here.
+Let’s take the next clean off your list.
 Office and home cleaning.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Your next clean starts here. Office and home cleaning. Deep cleaning and occupancy cleaning. Contact us to discuss your requirements. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
+Let’s take the next clean off your list. Office and home cleaning. Deep cleaning and occupancy cleaning. Contact us to discuss your requirements. Visit https://onpointhygienezw.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Hygiene & Fumigation educational card: Your next clean starts here. Office and home cleaning; Deep cleaning and occupancy cleaning; Contact us to discuss your requirements. Contact details in footer.
-
-**Image generation prompt**
-
-Create a portrait 4:5 educational poster for OnPoint Hygiene & Fumigation. Colours #0f4c3a, #e8693a, #f7f5ef. Clear editorial sans serif, generous spacing. Headline: "Your next clean starts here.". Supporting points: Office and home cleaning; Deep cleaning and occupancy cleaning; Contact us to discuss your requirements. Use a simple relevant conceptual illustration. Footer: "onpointhygienezw.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+Illustrative contemporary African lifestyle advertising for onpoint-hygiene: Let’s take the next clean off your list. Topic: Your next clean starts here.. Brand contact details in footer.

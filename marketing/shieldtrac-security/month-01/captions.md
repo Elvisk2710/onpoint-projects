@@ -1,14 +1,14 @@
-# ShieldTrac Security — Month 1 content pack
+# Month 1 — contemporary African lifestyle posters
 
-Undated 30-day sequence. Day 1 is Monday. All times are Africa/Harare (CAT, UTC+2). No publishing or scheduling has been performed.
+30 distinct daily posters with modern Zimbabwean homes, workplaces, businesses and infrastructure. All scenes and models are illustrative image-generated advertising.
 
-## Day 01 — Protection starts with a plan.
+## Day 01 — Your business. Your people. Worth looking after.
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-01.png` and `images/story/day-01.png`.
+[Open poster](images/lifestyle/day-01.png)
 
-**Facebook / Instagram caption**
+**Facebook / Instagram**
 
-Protection starts with a plan.
+Your business. Your people. Worth looking after.
 
 • Guarding and patrol enquiries.
 • CCTV and alarm systems.
@@ -18,9 +18,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Protection starts with a plan.
+Your business. Your people. Worth looking after.
 
 Guarding and patrol enquiries. CCTV and alarm systems. Discuss monitoring and response requirements.
 
@@ -28,31 +28,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Protection starts with a plan.
+Your business. Your people. Worth looking after.
 Guarding and patrol enquiries.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Protection starts with a plan. Guarding and patrol enquiries. CCTV and alarm systems. Discuss monitoring and response requirements. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Your business. Your people. Worth looking after. Guarding and patrol enquiries. CCTV and alarm systems. Discuss monitoring and response requirements. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Protection starts with a plan. Guarding and patrol enquiries; CCTV and alarm systems; Discuss monitoring and response requirements. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Your business. Your people. Worth looking after. Topic: Protection starts with a plan.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 02 — See what matters to you.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Protection starts with a plan.". Supporting points: Guarding and patrol enquiries; CCTV and alarm systems; Discuss monitoring and response requirements. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-02.png)
 
-## Day 02 — CCTV: start with the purpose.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-02.png` and `images/story/day-02.png`.
-
-**Facebook / Instagram caption**
-
-CCTV: start with the purpose.
+See what matters to you.
 
 • Identify the areas you need to observe.
 • Discuss lighting and recording needs.
@@ -62,9 +58,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-CCTV: start with the purpose.
+See what matters to you.
 
 Identify the areas you need to observe. Discuss lighting and recording needs. Plan privacy and authorised access.
 
@@ -72,31 +68,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-CCTV: start with the purpose.
+See what matters to you.
 Identify the areas you need to observe.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-CCTV: start with the purpose. Identify the areas you need to observe. Discuss lighting and recording needs. Plan privacy and authorised access. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+See what matters to you. Identify the areas you need to observe. Discuss lighting and recording needs. Plan privacy and authorised access. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: CCTV: start with the purpose. Identify the areas you need to observe; Discuss lighting and recording needs; Plan privacy and authorised access. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: See what matters to you. Topic: CCTV: start with the purpose.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 03 — Good questions build confidence.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "CCTV: start with the purpose.". Supporting points: Identify the areas you need to observe; Discuss lighting and recording needs; Plan privacy and authorised access. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-03.png)
 
-## Day 03 — Questions to ask a guarding provider.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-03.png` and `images/story/day-03.png`.
-
-**Facebook / Instagram caption**
-
-Questions to ask a guarding provider.
+Good questions build confidence.
 
 • How are guards selected and trained?.
 • How is supervision organised?.
@@ -106,9 +98,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Questions to ask a guarding provider.
+Good questions build confidence.
 
 How are guards selected and trained?. How is supervision organised?. What reporting can the client expect?.
 
@@ -116,31 +108,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Questions to ask a guarding provider.
+Good questions build confidence.
 How are guards selected and trained?.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Questions to ask a guarding provider. How are guards selected and trained?. How is supervision organised?. What reporting can the client expect?. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Good questions build confidence. How are guards selected and trained?. How is supervision organised?. What reporting can the client expect?. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Questions to ask a guarding provider. How are guards selected and trained?; How is supervision organised?; What reporting can the client expect?. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Good questions build confidence. Topic: Questions to ask a guarding provider.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 04 — Trust starts with a conversation.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Questions to ask a guarding provider.". Supporting points: How are guards selected and trained?; How is supervision organised?; What reporting can the client expect?. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-04.png)
 
-## Day 04 — What makes a helpful security review?
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-04.png` and `images/story/day-04.png`.
-
-**Facebook / Instagram caption**
-
-What makes a helpful security review?
+Trust starts with a conversation.
 
 • Describe the service you received.
 • Explain how communication worked.
@@ -150,9 +138,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-What makes a helpful security review?
+Trust starts with a conversation.
 
 Describe the service you received. Explain how communication worked. Share only details safe to make public.
 
@@ -160,31 +148,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-What makes a helpful security review?
+Trust starts with a conversation.
 Describe the service you received.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-What makes a helpful security review? Describe the service you received. Explain how communication worked. Share only details safe to make public. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Trust starts with a conversation. Describe the service you received. Explain how communication worked. Share only details safe to make public. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: What makes a helpful security review? Describe the service you received; Explain how communication worked; Share only details safe to make public. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Trust starts with a conversation. Topic: What makes a helpful security review?. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 05 — Start with your security needs.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "What makes a helpful security review?". Supporting points: Describe the service you received; Explain how communication worked; Share only details safe to make public. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-05.png)
 
-## Day 05 — Ask about a security assessment.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-05.png` and `images/story/day-05.png`.
-
-**Facebook / Instagram caption**
-
-Ask about a security assessment.
+Start with your security needs.
 
 • Describe the property type.
 • Explain your main security concerns.
@@ -194,9 +178,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Ask about a security assessment.
+Start with your security needs.
 
 Describe the property type. Explain your main security concerns. Discuss a suitable assessment and quotation.
 
@@ -204,31 +188,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Ask about a security assessment.
+Start with your security needs.
 Describe the property type.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Ask about a security assessment. Describe the property type. Explain your main security concerns. Discuss a suitable assessment and quotation. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Start with your security needs. Describe the property type. Explain your main security concerns. Discuss a suitable assessment and quotation. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Ask about a security assessment. Describe the property type; Explain your main security concerns; Discuss a suitable assessment and quotation. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Start with your security needs. Topic: Ask about a security assessment.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 06 — Take a fresh look around your home.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Ask about a security assessment.". Supporting points: Describe the property type; Explain your main security concerns; Discuss a suitable assessment and quotation. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-06.png)
 
-## Day 06 — Spot the three security gaps.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-06.png` and `images/story/day-06.png`.
-
-**Facebook / Instagram caption**
-
-Spot the three security gaps.
+Take a fresh look around your home.
 
 • An open gate leaves access uncontrolled.
 • An unsecured ladder should be stored away.
@@ -238,9 +218,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Spot the three security gaps.
+Take a fresh look around your home.
 
 An open gate leaves access uncontrolled. An unsecured ladder should be stored away. Overgrown planting can obscure an entrance.
 
@@ -248,31 +228,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Spot the three security gaps.
+Take a fresh look around your home.
 An open gate leaves access uncontrolled.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Spot the three security gaps. An open gate leaves access uncontrolled. An unsecured ladder should be stored away. Overgrown planting can obscure an entrance. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Take a fresh look around your home. An open gate leaves access uncontrolled. An unsecured ladder should be stored away. Overgrown planting can obscure an entrance. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Spot the three security gaps. An open gate leaves access uncontrolled; An unsecured ladder should be stored away; Overgrown planting can obscure an entrance. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Take a fresh look around your home. Topic: Spot the three security gaps.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 07 — Small changes worth making.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Spot the three security gaps.". Supporting points: An open gate leaves access uncontrolled; An unsecured ladder should be stored away; Overgrown planting can obscure an entrance. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-07.png)
 
-## Day 07 — Three practical fixes from yesterday.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-07.png` and `images/story/day-07.png`.
-
-**Facebook / Instagram caption**
-
-Three practical fixes from yesterday.
+Small changes worth making.
 
 • Close and secure the gate.
 • Store ladders in a secure place.
@@ -282,9 +258,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Three practical fixes from yesterday.
+Small changes worth making.
 
 Close and secure the gate. Store ladders in a secure place. Maintain clear sightlines around entrances.
 
@@ -292,31 +268,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Three practical fixes from yesterday.
+Small changes worth making.
 Close and secure the gate.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Three practical fixes from yesterday. Close and secure the gate. Store ladders in a secure place. Maintain clear sightlines around entrances. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Small changes worth making. Close and secure the gate. Store ladders in a secure place. Maintain clear sightlines around entrances. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Three practical fixes from yesterday. Close and secure the gate; Store ladders in a secure place; Maintain clear sightlines around entrances. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Small changes worth making. Topic: Three practical fixes from yesterday.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 08 — A calmer start to the day.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Three practical fixes from yesterday.". Supporting points: Close and secure the gate; Store ladders in a secure place; Maintain clear sightlines around entrances. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-08.png)
 
-## Day 08 — Everyday home security habits.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-08.png` and `images/story/day-08.png`.
-
-**Facebook / Instagram caption**
-
-Everyday home security habits.
+A calmer start to the day.
 
 • Check doors and windows before leaving.
 • Control who holds keys and access codes.
@@ -326,9 +298,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Everyday home security habits.
+A calmer start to the day.
 
 Check doors and windows before leaving. Control who holds keys and access codes. Report faulty locks and lights promptly.
 
@@ -336,31 +308,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Everyday home security habits.
+A calmer start to the day.
 Check doors and windows before leaving.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Everyday home security habits. Check doors and windows before leaving. Control who holds keys and access codes. Report faulty locks and lights promptly. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+A calmer start to the day. Check doors and windows before leaving. Control who holds keys and access codes. Report faulty locks and lights promptly. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Everyday home security habits. Check doors and windows before leaving; Control who holds keys and access codes; Report faulty locks and lights promptly. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: A calmer start to the day. Topic: Everyday home security habits.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 09 — Every property has its own needs.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Everyday home security habits.". Supporting points: Check doors and windows before leaving; Control who holds keys and access codes; Report faulty locks and lights promptly. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-09.png)
 
-## Day 09 — How many cameras does a property need?
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-09.png` and `images/story/day-09.png`.
-
-**Facebook / Instagram caption**
-
-How many cameras does a property need?
+Every property has its own needs.
 
 • Coverage depends on layout and objectives.
 • Lighting affects image usefulness.
@@ -370,9 +338,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-How many cameras does a property need?
+Every property has its own needs.
 
 Coverage depends on layout and objectives. Lighting affects image usefulness. Arrange a site-specific design discussion.
 
@@ -380,31 +348,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-How many cameras does a property need?
+Every property has its own needs.
 Coverage depends on layout and objectives.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-How many cameras does a property need? Coverage depends on layout and objectives. Lighting affects image usefulness. Arrange a site-specific design discussion. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Every property has its own needs. Coverage depends on layout and objectives. Lighting affects image usefulness. Arrange a site-specific design discussion. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: How many cameras does a property need? Coverage depends on layout and objectives; Lighting affects image usefulness; Arrange a site-specific design discussion. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Every property has its own needs. Topic: How many cameras does a property need?. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 10 — A clear handover matters.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "How many cameras does a property need?". Supporting points: Coverage depends on layout and objectives; Lighting affects image usefulness; Arrange a site-specific design discussion. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-10.png)
 
-## Day 10 — What should a night-shift handover cover?
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-10.png` and `images/story/day-10.png`.
-
-**Facebook / Instagram caption**
-
-What should a night-shift handover cover?
+A clear handover matters.
 
 • Outstanding incidents and instructions.
 • Equipment and communication checks.
@@ -414,9 +378,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-What should a night-shift handover cover?
+A clear handover matters.
 
 Outstanding incidents and instructions. Equipment and communication checks. Escalation contacts and responsibilities.
 
@@ -424,31 +388,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-What should a night-shift handover cover?
+A clear handover matters.
 Outstanding incidents and instructions.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-What should a night-shift handover cover? Outstanding incidents and instructions. Equipment and communication checks. Escalation contacts and responsibilities. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+A clear handover matters. Outstanding incidents and instructions. Equipment and communication checks. Escalation contacts and responsibilities. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: What should a night-shift handover cover? Outstanding incidents and instructions; Equipment and communication checks; Escalation contacts and responsibilities. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: A clear handover matters. Topic: What should a night-shift handover cover?. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 11 — Look after the business you’ve built.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "What should a night-shift handover cover?". Supporting points: Outstanding incidents and instructions; Equipment and communication checks; Escalation contacts and responsibilities. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-11.png)
 
-## Day 11 — Retail security starts with clear routines.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-11.png` and `images/story/day-11.png`.
-
-**Facebook / Instagram caption**
-
-Retail security starts with clear routines.
+Look after the business you’ve built.
 
 • Manage access to stock areas.
 • Record incidents and review patterns.
@@ -458,9 +418,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Retail security starts with clear routines.
+Look after the business you’ve built.
 
 Manage access to stock areas. Record incidents and review patterns. Coordinate people, processes and technology.
 
@@ -468,31 +428,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Retail security starts with clear routines.
+Look after the business you’ve built.
 Manage access to stock areas.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Retail security starts with clear routines. Manage access to stock areas. Record incidents and review patterns. Coordinate people, processes and technology. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Look after the business you’ve built. Manage access to stock areas. Record incidents and review patterns. Coordinate people, processes and technology. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Retail security starts with clear routines. Manage access to stock areas; Record incidents and review patterns; Coordinate people, processes and technology. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Look after the business you’ve built. Topic: Retail security starts with clear routines.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 12 — Ask what’s behind the alarm.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Retail security starts with clear routines.". Supporting points: Manage access to stock areas; Record incidents and review patterns; Coordinate people, processes and technology. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-12.png)
 
-## Day 12 — Alarm enquiries: ask these first.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-12.png` and `images/story/day-12.png`.
-
-**Facebook / Instagram caption**
-
-Alarm enquiries: ask these first.
+Ask what’s behind the alarm.
 
 • What is included in the installation?.
 • How are alerts handled and escalated?.
@@ -502,9 +458,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Alarm enquiries: ask these first.
+Ask what’s behind the alarm.
 
 What is included in the installation?. How are alerts handled and escalated?. What maintenance and fees apply?.
 
@@ -512,31 +468,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Alarm enquiries: ask these first.
+Ask what’s behind the alarm.
 What is included in the installation?.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Alarm enquiries: ask these first. What is included in the installation?. How are alerts handled and escalated?. What maintenance and fees apply?. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Ask what’s behind the alarm. What is included in the installation?. How are alerts handled and escalated?. What maintenance and fees apply?. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Alarm enquiries: ask these first. What is included in the installation?; How are alerts handled and escalated?; What maintenance and fees apply?. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Ask what’s behind the alarm. Topic: Alarm enquiries: ask these first.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 13 — Your entrance makes an impression.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Alarm enquiries: ask these first.". Supporting points: What is included in the installation?; How are alerts handled and escalated?; What maintenance and fees apply?. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-13.png)
 
-## Day 13 — Check the business entrance.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-13.png` and `images/story/day-13.png`.
-
-**Facebook / Instagram caption**
-
-Check the business entrance.
+Your entrance makes an impression.
 
 • Keep entry points visible and well lit.
 • Manage visitor and delivery access.
@@ -546,9 +498,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Check the business entrance.
+Your entrance makes an impression.
 
 Keep entry points visible and well lit. Manage visitor and delivery access. Check doors and locks at closing time.
 
@@ -556,31 +508,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Check the business entrance.
+Your entrance makes an impression.
 Keep entry points visible and well lit.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Check the business entrance. Keep entry points visible and well lit. Manage visitor and delivery access. Check doors and locks at closing time. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Your entrance makes an impression. Keep entry points visible and well lit. Manage visitor and delivery access. Check doors and locks at closing time. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Check the business entrance. Keep entry points visible and well lit; Manage visitor and delivery access; Check doors and locks at closing time. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Your entrance makes an impression. Topic: Check the business entrance.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 14 — A plan the whole family knows.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Check the business entrance.". Supporting points: Keep entry points visible and well lit; Manage visitor and delivery access; Check doors and locks at closing time. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-14.png)
 
-## Day 14 — Make a household emergency plan.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-14.png` and `images/story/day-14.png`.
-
-**Facebook / Instagram caption**
-
-Make a household emergency plan.
+A plan the whole family knows.
 
 • Keep verified local emergency contacts handy.
 • Agree how family members will communicate.
@@ -590,9 +538,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Make a household emergency plan.
+A plan the whole family knows.
 
 Keep verified local emergency contacts handy. Agree how family members will communicate. Prioritise personal safety and avoid confrontation.
 
@@ -600,31 +548,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Make a household emergency plan.
+A plan the whole family knows.
 Keep verified local emergency contacts handy.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Make a household emergency plan. Keep verified local emergency contacts handy. Agree how family members will communicate. Prioritise personal safety and avoid confrontation. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+A plan the whole family knows. Keep verified local emergency contacts handy. Agree how family members will communicate. Prioritise personal safety and avoid confrontation. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Make a household emergency plan. Keep verified local emergency contacts handy; Agree how family members will communicate; Prioritise personal safety and avoid confrontation. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: A plan the whole family knows. Topic: Make a household emergency plan.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 15 — Make time for a security check-in.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Make a household emergency plan.". Supporting points: Keep verified local emergency contacts handy; Agree how family members will communicate; Prioritise personal safety and avoid confrontation. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-15.png)
 
-## Day 15 — A practical business security review.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-15.png` and `images/story/day-15.png`.
-
-**Facebook / Instagram caption**
-
-A practical business security review.
+Make time for a security check-in.
 
 • Check access control and key management.
 • Review lighting and alarm maintenance.
@@ -634,9 +578,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-A practical business security review.
+Make time for a security check-in.
 
 Check access control and key management. Review lighting and alarm maintenance. Agree incident reporting and escalation.
 
@@ -644,31 +588,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-A practical business security review.
+Make time for a security check-in.
 Check access control and key management.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-A practical business security review. Check access control and key management. Review lighting and alarm maintenance. Agree incident reporting and escalation. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Make time for a security check-in. Check access control and key management. Review lighting and alarm maintenance. Agree incident reporting and escalation. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: A practical business security review. Check access control and key management; Review lighting and alarm maintenance; Agree incident reporting and escalation. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Make time for a security check-in. Topic: A practical business security review.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 16 — Stay connected. Keep access private.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "A practical business security review.". Supporting points: Check access control and key management; Review lighting and alarm maintenance; Agree incident reporting and escalation. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-16.png)
 
-## Day 16 — Remote CCTV viewing needs secure access.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-16.png` and `images/story/day-16.png`.
-
-**Facebook / Instagram caption**
-
-Remote CCTV viewing needs secure access.
+Stay connected. Keep access private.
 
 • Use unique credentials for authorised users.
 • Keep supported devices and software updated.
@@ -678,9 +618,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Remote CCTV viewing needs secure access.
+Stay connected. Keep access private.
 
 Use unique credentials for authorised users. Keep supported devices and software updated. Ask your installer about secure configuration.
 
@@ -688,31 +628,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Remote CCTV viewing needs secure access.
+Stay connected. Keep access private.
 Use unique credentials for authorised users.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Remote CCTV viewing needs secure access. Use unique credentials for authorised users. Keep supported devices and software updated. Ask your installer about secure configuration. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Stay connected. Keep access private. Use unique credentials for authorised users. Keep supported devices and software updated. Ask your installer about secure configuration. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Remote CCTV viewing needs secure access. Use unique credentials for authorised users; Keep supported devices and software updated; Ask your installer about secure configuration. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Stay connected. Keep access private. Topic: Remote CCTV viewing needs secure access.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 17 — Good reporting keeps people informed.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Remote CCTV viewing needs secure access.". Supporting points: Use unique credentials for authorised users; Keep supported devices and software updated; Ask your installer about secure configuration. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-17.png)
 
-## Day 17 — Good security work includes clear reporting.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-17.png` and `images/story/day-17.png`.
-
-**Facebook / Instagram caption**
-
-Good security work includes clear reporting.
+Good reporting keeps people informed.
 
 • Log relevant observations accurately.
 • Escalate incidents through agreed channels.
@@ -722,9 +658,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Good security work includes clear reporting.
+Good reporting keeps people informed.
 
 Log relevant observations accurately. Escalate incidents through agreed channels. Protect confidential client information.
 
@@ -732,31 +668,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Good security work includes clear reporting.
+Good reporting keeps people informed.
 Log relevant observations accurately.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Good security work includes clear reporting. Log relevant observations accurately. Escalate incidents through agreed channels. Protect confidential client information. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Good reporting keeps people informed. Log relevant observations accurately. Escalate incidents through agreed channels. Protect confidential client information. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Good security work includes clear reporting. Log relevant observations accurately; Escalate incidents through agreed channels; Protect confidential client information. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Good reporting keeps people informed. Topic: Good security work includes clear reporting.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 18 — Real conversations. Thoughtful decisions.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Good security work includes clear reporting.". Supporting points: Log relevant observations accurately; Escalate incidents through agreed channels; Protect confidential client information. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-18.png)
 
-## Day 18 — Before sharing a client security story.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-18.png` and `images/story/day-18.png`.
-
-**Facebook / Instagram caption**
-
-Before sharing a client security story.
+Real conversations. Thoughtful decisions.
 
 • Get the client's permission.
 • Remove identifying and operational details.
@@ -766,9 +698,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Before sharing a client security story.
+Real conversations. Thoughtful decisions.
 
 Get the client's permission. Remove identifying and operational details. Use the client's genuine approved words.
 
@@ -776,31 +708,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Before sharing a client security story.
+Real conversations. Thoughtful decisions.
 Get the client's permission.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Before sharing a client security story. Get the client's permission. Remove identifying and operational details. Use the client's genuine approved words. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Real conversations. Thoughtful decisions. Get the client's permission. Remove identifying and operational details. Use the client's genuine approved words. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Before sharing a client security story. Get the client's permission; Remove identifying and operational details; Use the client's genuine approved words. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Real conversations. Thoughtful decisions. Topic: Before sharing a client security story.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 19 — Your site needs a security conversation.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Before sharing a client security story.". Supporting points: Get the client's permission; Remove identifying and operational details; Use the client's genuine approved words. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-19.png)
 
-## Day 19 — Construction sites need a security plan.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-19.png` and `images/story/day-19.png`.
-
-**Facebook / Instagram caption**
-
-Construction sites need a security plan.
+Your site needs a security conversation.
 
 • Consider materials and equipment storage.
 • Manage access outside working hours.
@@ -810,9 +738,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Construction sites need a security plan.
+Your site needs a security conversation.
 
 Consider materials and equipment storage. Manage access outside working hours. Discuss guarding and CCTV requirements.
 
@@ -820,31 +748,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Construction sites need a security plan.
+Your site needs a security conversation.
 Consider materials and equipment storage.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Construction sites need a security plan. Consider materials and equipment storage. Manage access outside working hours. Discuss guarding and CCTV requirements. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Your site needs a security conversation. Consider materials and equipment storage. Manage access outside working hours. Discuss guarding and CCTV requirements. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Construction sites need a security plan. Consider materials and equipment storage; Manage access outside working hours; Discuss guarding and CCTV requirements. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Your site needs a security conversation. Topic: Construction sites need a security plan.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 20 — A walk around can reveal a lot.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Construction sites need a security plan.". Supporting points: Consider materials and equipment storage; Manage access outside working hours; Discuss guarding and CCTV requirements. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-20.png)
 
-## Day 20 — Walk your perimeter with fresh eyes.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-20.png` and `images/story/day-20.png`.
-
-**Facebook / Instagram caption**
-
-Walk your perimeter with fresh eyes.
+A walk around can reveal a lot.
 
 • Check gates and boundary condition.
 • Look for lighting maintenance needs.
@@ -854,9 +778,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Walk your perimeter with fresh eyes.
+A walk around can reveal a lot.
 
 Check gates and boundary condition. Look for lighting maintenance needs. Store tools and ladders securely.
 
@@ -864,31 +788,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Walk your perimeter with fresh eyes.
+A walk around can reveal a lot.
 Check gates and boundary condition.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Walk your perimeter with fresh eyes. Check gates and boundary condition. Look for lighting maintenance needs. Store tools and ladders securely. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+A walk around can reveal a lot. Check gates and boundary condition. Look for lighting maintenance needs. Store tools and ladders securely. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Walk your perimeter with fresh eyes. Check gates and boundary condition; Look for lighting maintenance needs; Store tools and ladders securely. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: A walk around can reveal a lot. Topic: Walk your perimeter with fresh eyes.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 21 — Before you go, make a plan.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Walk your perimeter with fresh eyes.". Supporting points: Check gates and boundary condition; Look for lighting maintenance needs; Store tools and ladders securely. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-21.png)
 
-## Day 21 — Going away? Plan before departure.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-21.png` and `images/story/day-21.png`.
-
-**Facebook / Instagram caption**
-
-Going away? Plan before departure.
+Before you go, make a plan.
 
 • Check locks, alarms and emergency contacts.
 • Arrange a trusted property check.
@@ -898,9 +818,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Going away? Plan before departure.
+Before you go, make a plan.
 
 Check locks, alarms and emergency contacts. Arrange a trusted property check. Avoid public real-time travel announcements.
 
@@ -908,31 +828,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Going away? Plan before departure.
+Before you go, make a plan.
 Check locks, alarms and emergency contacts.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Going away? Plan before departure. Check locks, alarms and emergency contacts. Arrange a trusted property check. Avoid public real-time travel announcements. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Before you go, make a plan. Check locks, alarms and emergency contacts. Arrange a trusted property check. Avoid public real-time travel announcements. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Going away? Plan before departure. Check locks, alarms and emergency contacts; Arrange a trusted property check; Avoid public real-time travel announcements. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Before you go, make a plan. Topic: Going away? Plan before departure.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 22 — Enjoy the journey. Prepare at home.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Going away? Plan before departure.". Supporting points: Check locks, alarms and emergency contacts; Arrange a trusted property check; Avoid public real-time travel announcements. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-22.png)
 
-## Day 22 — Your travel security checklist.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-22.png` and `images/story/day-22.png`.
-
-**Facebook / Instagram caption**
-
-Your travel security checklist.
+Enjoy the journey. Prepare at home.
 
 • Confirm who can access the property.
 • Test systems using approved procedures.
@@ -942,9 +858,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Your travel security checklist.
+Enjoy the journey. Prepare at home.
 
 Confirm who can access the property. Test systems using approved procedures. Share contact arrangements privately.
 
@@ -952,31 +868,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Your travel security checklist.
+Enjoy the journey. Prepare at home.
 Confirm who can access the property.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Your travel security checklist. Confirm who can access the property. Test systems using approved procedures. Share contact arrangements privately. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Enjoy the journey. Prepare at home. Confirm who can access the property. Test systems using approved procedures. Share contact arrangements privately. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Your travel security checklist. Confirm who can access the property; Test systems using approved procedures; Share contact arrangements privately. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Enjoy the journey. Prepare at home. Topic: Your travel security checklist.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 23 — Know what happens after an alert.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Your travel security checklist.". Supporting points: Confirm who can access the property; Test systems using approved procedures; Share contact arrangements privately. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-23.png)
 
-## Day 23 — Ask what happens after an alarm.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-23.png` and `images/story/day-23.png`.
-
-**Facebook / Instagram caption**
-
-Ask what happens after an alarm.
+Know what happens after an alert.
 
 • Who receives and verifies the alert?.
 • How is escalation arranged?.
@@ -986,9 +898,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Ask what happens after an alarm.
+Know what happens after an alert.
 
 Who receives and verifies the alert?. How is escalation arranged?. What coverage and service conditions apply?.
 
@@ -996,31 +908,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Ask what happens after an alarm.
+Know what happens after an alert.
 Who receives and verifies the alert?.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Ask what happens after an alarm. Who receives and verifies the alert?. How is escalation arranged?. What coverage and service conditions apply?. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Know what happens after an alert. Who receives and verifies the alert?. How is escalation arranged?. What coverage and service conditions apply?. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Ask what happens after an alarm. Who receives and verifies the alert?; How is escalation arranged?; What coverage and service conditions apply?. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Know what happens after an alert. Topic: Ask what happens after an alarm.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 24 — Ask how supervision works.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Ask what happens after an alarm.". Supporting points: Who receives and verifies the alert?; How is escalation arranged?; What coverage and service conditions apply?. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-24.png)
 
-## Day 24 — Supervision should be part of the discussion.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-24.png` and `images/story/day-24.png`.
-
-**Facebook / Instagram caption**
-
-Supervision should be part of the discussion.
+Ask how supervision works.
 
 • Ask how site checks are organised.
 • Agree how concerns will be raised.
@@ -1030,9 +938,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Supervision should be part of the discussion.
+Ask how supervision works.
 
 Ask how site checks are organised. Agree how concerns will be raised. Clarify what reports you will receive.
 
@@ -1040,31 +948,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Supervision should be part of the discussion.
+Ask how supervision works.
 Ask how site checks are organised.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Supervision should be part of the discussion. Ask how site checks are organised. Agree how concerns will be raised. Clarify what reports you will receive. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Ask how supervision works. Ask how site checks are organised. Agree how concerns will be raised. Clarify what reports you will receive. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Supervision should be part of the discussion. Ask how site checks are organised; Agree how concerns will be raised; Clarify what reports you will receive. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Ask how supervision works. Topic: Supervision should be part of the discussion.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 25 — Your experience can guide others.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Supervision should be part of the discussion.". Supporting points: Ask how site checks are organised; Agree how concerns will be raised; Clarify what reports you will receive. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-25.png)
 
-## Day 25 — An honest review helps others choose.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-25.png` and `images/story/day-25.png`.
-
-**Facebook / Instagram caption**
-
-An honest review helps others choose.
+Your experience can guide others.
 
 • Describe your own service experience.
 • Avoid addresses and system details.
@@ -1074,9 +978,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-An honest review helps others choose.
+Your experience can guide others.
 
 Describe your own service experience. Avoid addresses and system details. Keep operational information private.
 
@@ -1084,31 +988,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-An honest review helps others choose.
+Your experience can guide others.
 Describe your own service experience.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-An honest review helps others choose. Describe your own service experience. Avoid addresses and system details. Keep operational information private. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Your experience can guide others. Describe your own service experience. Avoid addresses and system details. Keep operational information private. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: An honest review helps others choose. Describe your own service experience; Avoid addresses and system details; Keep operational information private. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Your experience can guide others. Topic: An honest review helps others choose.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 26 — Heading away? Let’s talk.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "An honest review helps others choose.". Supporting points: Describe your own service experience; Avoid addresses and system details; Keep operational information private. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-26.png)
 
-## Day 26 — Planning time away? Discuss your options.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-26.png` and `images/story/day-26.png`.
-
-**Facebook / Instagram caption**
-
-Planning time away? Discuss your options.
+Heading away? Let’s talk.
 
 • Tell us the property type and area privately.
 • Explain the support you are looking for.
@@ -1118,9 +1018,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Planning time away? Discuss your options.
+Heading away? Let’s talk.
 
 Tell us the property type and area privately. Explain the support you are looking for. Ask about availability, terms and pricing.
 
@@ -1128,31 +1028,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Planning time away? Discuss your options.
+Heading away? Let’s talk.
 Tell us the property type and area privately.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Planning time away? Discuss your options. Tell us the property type and area privately. Explain the support you are looking for. Ask about availability, terms and pricing. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Heading away? Let’s talk. Tell us the property type and area privately. Explain the support you are looking for. Ask about availability, terms and pricing. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Planning time away? Discuss your options. Tell us the property type and area privately; Explain the support you are looking for; Ask about availability, terms and pricing. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Heading away? Let’s talk. Topic: Planning time away? Discuss your options.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 27 — Keep your travel plans close.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Planning time away? Discuss your options.". Supporting points: Tell us the property type and area privately; Explain the support you are looking for; Ask about availability, terms and pricing. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-27.png)
 
-## Day 27 — Do not announce an empty home.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-27.png` and `images/story/day-27.png`.
-
-**Facebook / Instagram caption**
-
-Do not announce an empty home.
+Keep your travel plans close.
 
 • Avoid posting your itinerary publicly.
 • Delay travel updates until you return.
@@ -1162,9 +1058,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Do not announce an empty home.
+Keep your travel plans close.
 
 Avoid posting your itinerary publicly. Delay travel updates until you return. Share access arrangements only with trusted people.
 
@@ -1172,31 +1068,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Do not announce an empty home.
+Keep your travel plans close.
 Avoid posting your itinerary publicly.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Do not announce an empty home. Avoid posting your itinerary publicly. Delay travel updates until you return. Share access arrangements only with trusted people. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Keep your travel plans close. Avoid posting your itinerary publicly. Delay travel updates until you return. Share access arrangements only with trusted people. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Do not announce an empty home. Avoid posting your itinerary publicly; Delay travel updates until you return; Share access arrangements only with trusted people. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Keep your travel plans close. Topic: Do not announce an empty home.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 28 — Some moments are better shared later.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Do not announce an empty home.". Supporting points: Avoid posting your itinerary publicly; Delay travel updates until you return; Share access arrangements only with trusted people. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-28.png)
 
-## Day 28 — Social media is part of your security routine.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-28.png` and `images/story/day-28.png`.
-
-**Facebook / Instagram caption**
-
-Social media is part of your security routine.
+Some moments are better shared later.
 
 • Review who can see your posts.
 • Avoid sharing keys, codes and addresses.
@@ -1206,9 +1098,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Social media is part of your security routine.
+Some moments are better shared later.
 
 Review who can see your posts. Avoid sharing keys, codes and addresses. Check photos for sensitive details.
 
@@ -1216,31 +1108,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Social media is part of your security routine.
+Some moments are better shared later.
 Review who can see your posts.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Social media is part of your security routine. Review who can see your posts. Avoid sharing keys, codes and addresses. Check photos for sensitive details. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Some moments are better shared later. Review who can see your posts. Avoid sharing keys, codes and addresses. Check photos for sensitive details. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Social media is part of your security routine. Review who can see your posts; Avoid sharing keys, codes and addresses; Check photos for sensitive details. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Some moments are better shared later. Topic: Social media is part of your security routine.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 29 — Good habits are worth keeping.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Social media is part of your security routine.". Supporting points: Review who can see your posts; Avoid sharing keys, codes and addresses; Check photos for sensitive details. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-29.png)
 
-## Day 29 — A month of practical security habits.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-29.png` and `images/story/day-29.png`.
-
-**Facebook / Instagram caption**
-
-A month of practical security habits.
+Good habits are worth keeping.
 
 • Control access consistently.
 • Maintain locks, lights and systems.
@@ -1250,9 +1138,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-A month of practical security habits.
+Good habits are worth keeping.
 
 Control access consistently. Maintain locks, lights and systems. Keep reporting and response contacts current.
 
@@ -1260,31 +1148,27 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-A month of practical security habits.
+Good habits are worth keeping.
 Control access consistently.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-A month of practical security habits. Control access consistently. Maintain locks, lights and systems. Keep reporting and response contacts current. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Good habits are worth keeping. Control access consistently. Maintain locks, lights and systems. Keep reporting and response contacts current. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: A month of practical security habits. Control access consistently; Maintain locks, lights and systems; Keep reporting and response contacts current. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Good habits are worth keeping. Topic: A month of practical security habits.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 30 — Let’s talk about what matters to you.
 
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "A month of practical security habits.". Supporting points: Control access consistently; Maintain locks, lights and systems; Keep reporting and response contacts current. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-30.png)
 
-## Day 30 — Build a security plan that fits.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-30.png` and `images/story/day-30.png`.
-
-**Facebook / Instagram caption**
-
-Build a security plan that fits.
+Let’s talk about what matters to you.
 
 • Home and business security enquiries.
 • Guarding, CCTV and alarm requirements.
@@ -1294,9 +1178,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263788094724 or visit https
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**LinkedIn version**
+**LinkedIn**
 
-Build a security plan that fits.
+Let’s talk about what matters to you.
 
 Home and business security enquiries. Guarding, CCTV and alarm requirements. Contact us to discuss scope and quotation.
 
@@ -1304,20 +1188,16 @@ For scope and quotation enquiries, contact info@shieldtrac.co.zw or visit https:
 
 #ShieldTrac #SecurityZimbabwe #HomeSecurity
 
-**WhatsApp Status**
+**WhatsApp**
 
-Build a security plan that fits.
+Let’s talk about what matters to you.
 Home and business security enquiries.
 WhatsApp +263788094724 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Build a security plan that fits. Home and business security enquiries. Guarding, CCTV and alarm requirements. Contact us to discuss scope and quotation. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
+Let’s talk about what matters to you. Home and business security enquiries. Guarding, CCTV and alarm requirements. Contact us to discuss scope and quotation. Visit https://shieldtrac.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-ShieldTrac Security educational card: Build a security plan that fits. Home and business security enquiries; Guarding, CCTV and alarm requirements; Contact us to discuss scope and quotation. Contact details in footer.
-
-**Image generation prompt**
-
-Create a portrait 4:5 educational poster for ShieldTrac Security. Colours #0b2545, #ea580c, #f8fafc. Clear editorial sans serif, generous spacing. Headline: "Build a security plan that fits.". Supporting points: Home and business security enquiries; Guarding, CCTV and alarm requirements; Contact us to discuss scope and quotation. Use a simple relevant conceptual illustration. Footer: "shieldtrac.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+Illustrative contemporary African lifestyle advertising for shieldtrac-security: Let’s talk about what matters to you. Topic: Build a security plan that fits.. Brand contact details in footer.

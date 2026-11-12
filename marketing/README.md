@@ -1,5 +1,20 @@
 # Monthly marketing content
 
+## Complete Month 1 — modern African lifestyle posters
+
+Each brand now has **30 distinct photo-led posters** featuring contemporary African people, homes, offices, businesses and infrastructure. Start here:
+
+- [OnPoint Civils — all 30 posters](onpoint-civils/month-01/POSTERS.md)
+- [OnPoint Hygiene — all 30 posters](onpoint-hygiene/month-01/POSTERS.md)
+- [ShieldTrac Security — all 30 posters](shieldtrac-security/month-01/POSTERS.md)
+
+Files are named `images/lifestyle/day-01.png` through `day-30.png` in each brand's `month-01` folder. Each monthly gallery, CSV calendar, caption document, structured dataset and PDF booklet references the new posters. These are original generated portrait images, approximately 4:5. Fit the full image inside a Story frame rather than cropping its text; separate 9:16 photographic renders are not included.
+
+The previous single concept has been replaced by the complete daily collection. Earlier typographic templates and educational slides remain available as supporting materials; their SVGs are not editable source for the new photographic artwork. All people and scenes are illustrative, not actual staff or customer endorsements.
+
+---
+
+
 The source 30-day strategies remain at the top level. The produced content is organised by brand:
 
 - [OnPoint Civils — Month 1](onpoint-civils/month-01/README.md)

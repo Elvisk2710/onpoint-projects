@@ -1,5 +1,7 @@
-# Warm local lifestyle campaign concept
+# Full Month 1 poster collection
 
-New photo-led creative direction responding to the request for realistic people and less generic marketing. This finished concept poster uses image-generated illustrative models and scenes, not actual employees, customers or completed work. Original tool output is preserved unchanged.
+30 distinct image-generated modern African lifestyle posters, named `day-01.png` through `day-30.png`. Each matching JSON file records its headline, topic and generation prompt. These original tool outputs are preserved unchanged.
 
-The full 30-day feed, Story and carousel set has not yet been replaced. This concept establishes the new direction: customer situations, warm natural light, locally relatable settings, one emotional headline and clear contact details. Use the existing captions only where the topic matches; this is not a before/after result or testimonial.
+The primary monthly gallery, captions, CSV calendar and PDF booklet now link these posters. Images are portrait approximately 4:5; for Stories, fit the full poster inside the frame rather than crop its text. Separate full-screen 9:16 compositions are not included in this update.
+
+Scenes and models are illustrative, not actual staff, client work or endorsements. The earlier single concept has been replaced by this complete daily collection.

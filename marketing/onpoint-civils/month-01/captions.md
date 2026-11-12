@@ -1,14 +1,14 @@
-# OnPoint Civils — Month 1 content pack
+# Month 1 — contemporary African lifestyle posters
 
-Undated 30-day sequence. Day 1 is Monday. All times are Africa/Harare (CAT, UTC+2). No publishing or scheduling has been performed.
+30 distinct daily posters with modern Zimbabwean homes, workplaces, businesses and infrastructure. All scenes and models are illustrative image-generated advertising.
 
-## Day 01 — Roads. Water. Structures. Buildings.
+## Day 01 — Your next chapter starts here.
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-01.png` and `images/story/day-01.png`.
+[Open poster](images/lifestyle/day-01.png)
 
-**Facebook / Instagram caption**
+**Facebook / Instagram**
 
-Roads. Water. Structures. Buildings.
+Your next chapter starts here.
 
 • Road construction and drainage.
 • Water and sewer infrastructure.
@@ -18,9 +18,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Roads. Water. Structures. Buildings.
+Your next chapter starts here.
 
 Road construction and drainage. Water and sewer infrastructure. Building and structural works.
 
@@ -28,31 +28,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Roads. Water. Structures. Buildings.
+Your next chapter starts here.
 Road construction and drainage.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Roads. Water. Structures. Buildings. Road construction and drainage. Water and sewer infrastructure. Building and structural works. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Your next chapter starts here. Road construction and drainage. Water and sewer infrastructure. Building and structural works. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Roads. Water. Structures. Buildings. Road construction and drainage; Water and sewer infrastructure; Building and structural works. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Your next chapter starts here. Topic: Roads. Water. Structures. Buildings.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 02 — Good roads begin with good ground.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Roads. Water. Structures. Buildings.". Supporting points: Road construction and drainage; Water and sewer infrastructure; Building and structural works. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-02.png)
 
-## Day 02 — Good roads start below the surface.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-02.png` and `images/story/day-02.png`.
-
-**Facebook / Instagram caption**
-
-Good roads start below the surface.
+Good roads begin with good ground.
 
 • Subgrade supports the pavement.
 • Base layers distribute traffic loads.
@@ -62,9 +58,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Good roads start below the surface.
+Good roads begin with good ground.
 
 Subgrade supports the pavement. Base layers distribute traffic loads. Surfacing protects the layers beneath.
 
@@ -72,31 +68,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Good roads start below the surface.
+Good roads begin with good ground.
 Subgrade supports the pavement.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Good roads start below the surface. Subgrade supports the pavement. Base layers distribute traffic loads. Surfacing protects the layers beneath. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Good roads begin with good ground. Subgrade supports the pavement. Base layers distribute traffic loads. Surfacing protects the layers beneath. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Good roads start below the surface. Subgrade supports the pavement; Base layers distribute traffic loads; Surfacing protects the layers beneath. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Good roads begin with good ground. Topic: Good roads start below the surface.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 03 — The right tools. The right conversation.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Good roads start below the surface.". Supporting points: Subgrade supports the pavement; Base layers distribute traffic loads; Surfacing protects the layers beneath. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-03.png)
 
-## Day 03 — The right plant starts with the right scope.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-03.png` and `images/story/day-03.png`.
-
-**Facebook / Instagram caption**
-
-The right plant starts with the right scope.
+The right tools. The right conversation.
 
 • Define the work before selecting machinery.
 • Plan access and working space.
@@ -106,9 +98,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-The right plant starts with the right scope.
+The right tools. The right conversation.
 
 Define the work before selecting machinery. Plan access and working space. Coordinate operators and site activities.
 
@@ -116,31 +108,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-The right plant starts with the right scope.
+The right tools. The right conversation.
 Define the work before selecting machinery.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-The right plant starts with the right scope. Define the work before selecting machinery. Plan access and working space. Coordinate operators and site activities. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+The right tools. The right conversation. Define the work before selecting machinery. Plan access and working space. Coordinate operators and site activities. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: The right plant starts with the right scope. Define the work before selecting machinery; Plan access and working space; Coordinate operators and site activities. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: The right tools. The right conversation. Topic: The right plant starts with the right scope.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 04 — Bring your plans. Let’s talk.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "The right plant starts with the right scope.". Supporting points: Define the work before selecting machinery; Plan access and working space; Coordinate operators and site activities. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-04.png)
 
-## Day 04 — What makes a useful project brief?
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-04.png` and `images/story/day-04.png`.
-
-**Facebook / Instagram caption**
-
-What makes a useful project brief?
+Bring your plans. Let’s talk.
 
 • Describe the location and intended use.
 • Include drawings and available surveys.
@@ -150,9 +138,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-What makes a useful project brief?
+Bring your plans. Let’s talk.
 
 Describe the location and intended use. Include drawings and available surveys. Set out scope and target dates.
 
@@ -160,31 +148,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-What makes a useful project brief?
+Bring your plans. Let’s talk.
 Describe the location and intended use.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-What makes a useful project brief? Describe the location and intended use. Include drawings and available surveys. Set out scope and target dates. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Bring your plans. Let’s talk. Describe the location and intended use. Include drawings and available surveys. Set out scope and target dates. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: What makes a useful project brief? Describe the location and intended use; Include drawings and available surveys; Set out scope and target dates. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Bring your plans. Let’s talk. Topic: What makes a useful project brief?. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 05 — See how far a good plan can go.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "What makes a useful project brief?". Supporting points: Describe the location and intended use; Include drawings and available surveys; Set out scope and target dates. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-05.png)
 
-## Day 05 — Three shots that explain site progress.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-05.png` and `images/story/day-05.png`.
-
-**Facebook / Instagram caption**
-
-Three shots that explain site progress.
+See how far a good plan can go.
 
 • A wide view establishes the work area.
 • A detail shows the activity.
@@ -194,9 +178,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Three shots that explain site progress.
+See how far a good plan can go.
 
 A wide view establishes the work area. A detail shows the activity. A repeat angle makes progress visible.
 
@@ -204,31 +188,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Three shots that explain site progress.
+See how far a good plan can go.
 A wide view establishes the work area.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Three shots that explain site progress. A wide view establishes the work area. A detail shows the activity. A repeat angle makes progress visible. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+See how far a good plan can go. A wide view establishes the work area. A detail shows the activity. A repeat angle makes progress visible. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Three shots that explain site progress. A wide view establishes the work area; A detail shows the activity; A repeat angle makes progress visible. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: See how far a good plan can go. Topic: Three shots that explain site progress.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 06 — A good visit starts with safety.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Three shots that explain site progress.". Supporting points: A wide view establishes the work area; A detail shows the activity; A repeat angle makes progress visible. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-06.png)
 
-## Day 06 — A site visit checklist.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-06.png` and `images/story/day-06.png`.
-
-**Facebook / Instagram caption**
-
-A site visit checklist.
+A good visit starts with safety.
 
 • Wear the required protective equipment.
 • Report to the site representative.
@@ -238,9 +218,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-A site visit checklist.
+A good visit starts with safety.
 
 Wear the required protective equipment. Report to the site representative. Stay inside designated visitor areas.
 
@@ -248,31 +228,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-A site visit checklist.
+A good visit starts with safety.
 Wear the required protective equipment.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-A site visit checklist. Wear the required protective equipment. Report to the site representative. Stay inside designated visitor areas. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+A good visit starts with safety. Wear the required protective equipment. Report to the site representative. Stay inside designated visitor areas. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: A site visit checklist. Wear the required protective equipment; Report to the site representative; Stay inside designated visitor areas. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: A good visit starts with safety. Topic: A site visit checklist.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 07 — Your project deserves a proper start.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "A site visit checklist.". Supporting points: Wear the required protective equipment; Report to the site representative; Stay inside designated visitor areas. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-07.png)
 
-## Day 07 — Planning infrastructure? Start a conversation.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-07.png` and `images/story/day-07.png`.
-
-**Facebook / Instagram caption**
-
-Planning infrastructure? Start a conversation.
+Your project deserves a proper start.
 
 • Describe the project and its location.
 • Tell us which services you need.
@@ -282,9 +258,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Planning infrastructure? Start a conversation.
+Your project deserves a proper start.
 
 Describe the project and its location. Tell us which services you need. Send enquiries through our website.
 
@@ -292,31 +268,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Planning infrastructure? Start a conversation.
+Your project deserves a proper start.
 Describe the project and its location.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Planning infrastructure? Start a conversation. Describe the project and its location. Tell us which services you need. Send enquiries through our website. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Your project deserves a proper start. Describe the project and its location. Tell us which services you need. Send enquiries through our website. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Planning infrastructure? Start a conversation. Describe the project and its location; Tell us which services you need; Send enquiries through our website. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Your project deserves a proper start. Topic: Planning infrastructure? Start a conversation.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 08 — Every step has a next step.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Planning infrastructure? Start a conversation.". Supporting points: Describe the project and its location; Tell us which services you need; Send enquiries through our website. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-08.png)
 
-## Day 08 — Progress is more than a photograph.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-08.png` and `images/story/day-08.png`.
-
-**Facebook / Instagram caption**
-
-Progress is more than a photograph.
+Every step has a next step.
 
 • Record what changed since the last update.
 • Explain what the next activity depends on.
@@ -326,9 +298,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Progress is more than a photograph.
+Every step has a next step.
 
 Record what changed since the last update. Explain what the next activity depends on. Flag decisions that need attention.
 
@@ -336,31 +308,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Progress is more than a photograph.
+Every step has a next step.
 Record what changed since the last update.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Progress is more than a photograph. Record what changed since the last update. Explain what the next activity depends on. Flag decisions that need attention. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Every step has a next step. Record what changed since the last update. Explain what the next activity depends on. Flag decisions that need attention. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Progress is more than a photograph. Record what changed since the last update; Explain what the next activity depends on; Flag decisions that need attention. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Every step has a next step. Topic: Progress is more than a photograph.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 09 — Water connects a community.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Progress is more than a photograph.". Supporting points: Record what changed since the last update; Explain what the next activity depends on; Flag decisions that need attention. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-09.png)
 
-## Day 09 — How water reticulation connects a development.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-09.png` and `images/story/day-09.png`.
-
-**Facebook / Instagram caption**
-
-How water reticulation connects a development.
+Water connects a community.
 
 • Supply feeds a distribution network.
 • Valves support isolation and maintenance.
@@ -370,9 +338,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-How water reticulation connects a development.
+Water connects a community.
 
 Supply feeds a distribution network. Valves support isolation and maintenance. Testing happens before commissioning.
 
@@ -380,31 +348,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-How water reticulation connects a development.
+Water connects a community.
 Supply feeds a distribution network.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-How water reticulation connects a development. Supply feeds a distribution network. Valves support isolation and maintenance. Testing happens before commissioning. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Water connects a community. Supply feeds a distribution network. Valves support isolation and maintenance. Testing happens before commissioning. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: How water reticulation connects a development. Supply feeds a distribution network; Valves support isolation and maintenance; Testing happens before commissioning. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Water connects a community. Topic: How water reticulation connects a development.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 10 — Good work takes good people.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "How water reticulation connects a development.". Supporting points: Supply feeds a distribution network; Valves support isolation and maintenance; Testing happens before commissioning. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-10.png)
 
-## Day 10 — Who does what on a civil project?
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-10.png` and `images/story/day-10.png`.
-
-**Facebook / Instagram caption**
-
-Who does what on a civil project?
+Good work takes good people.
 
 • Designers define the technical requirements.
 • Site teams organise construction activities.
@@ -414,9 +378,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Who does what on a civil project?
+Good work takes good people.
 
 Designers define the technical requirements. Site teams organise construction activities. Quality teams check work against specifications.
 
@@ -424,31 +388,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Who does what on a civil project?
+Good work takes good people.
 Designers define the technical requirements.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Who does what on a civil project? Designers define the technical requirements. Site teams organise construction activities. Quality teams check work against specifications. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Good work takes good people. Designers define the technical requirements. Site teams organise construction activities. Quality teams check work against specifications. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Who does what on a civil project? Designers define the technical requirements; Site teams organise construction activities; Quality teams check work against specifications. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Good work takes good people. Topic: Who does what on a civil project?. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 11 — Plan the connections early.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Who does what on a civil project?". Supporting points: Designers define the technical requirements; Site teams organise construction activities; Quality teams check work against specifications. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-11.png)
 
-## Day 11 — Water and sewer need coordinated planning.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-11.png` and `images/story/day-11.png`.
-
-**Facebook / Instagram caption**
-
-Water and sewer need coordinated planning.
+Plan the connections early.
 
 • Check routes and levels early.
 • Coordinate crossings with other services.
@@ -458,9 +418,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Water and sewer need coordinated planning.
+Plan the connections early.
 
 Check routes and levels early. Coordinate crossings with other services. Plan testing and handover requirements.
 
@@ -468,31 +428,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Water and sewer need coordinated planning.
+Plan the connections early.
 Check routes and levels early.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Water and sewer need coordinated planning. Check routes and levels early. Coordinate crossings with other services. Plan testing and handover requirements. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Plan the connections early. Check routes and levels early. Coordinate crossings with other services. Plan testing and handover requirements. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Water and sewer need coordinated planning. Check routes and levels early; Coordinate crossings with other services; Plan testing and handover requirements. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Plan the connections early. Topic: Water and sewer need coordinated planning.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 12 — Before the pour, make a plan.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Water and sewer need coordinated planning.". Supporting points: Check routes and levels early; Coordinate crossings with other services; Plan testing and handover requirements. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-12.png)
 
-## Day 12 — Before a concrete pour.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-12.png` and `images/story/day-12.png`.
-
-**Facebook / Instagram caption**
-
-Before a concrete pour.
+Before the pour, make a plan.
 
 • Confirm approved drawings and checks.
 • Plan access and concrete delivery.
@@ -502,9 +458,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Before a concrete pour.
+Before the pour, make a plan.
 
 Confirm approved drawings and checks. Plan access and concrete delivery. Agree placement, testing and curing procedures.
 
@@ -512,31 +468,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Before a concrete pour.
+Before the pour, make a plan.
 Confirm approved drawings and checks.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Before a concrete pour. Confirm approved drawings and checks. Plan access and concrete delivery. Agree placement, testing and curing procedures. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Before the pour, make a plan. Confirm approved drawings and checks. Plan access and concrete delivery. Agree placement, testing and curing procedures. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Before a concrete pour. Confirm approved drawings and checks; Plan access and concrete delivery; Agree placement, testing and curing procedures. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Before the pour, make a plan. Topic: Before a concrete pour.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 13 — Start the day with everyone in mind.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Before a concrete pour.". Supporting points: Confirm approved drawings and checks; Plan access and concrete delivery; Agree placement, testing and curing procedures. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-13.png)
 
-## Day 13 — A toolbox talk should be practical.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-13.png` and `images/story/day-13.png`.
-
-**Facebook / Instagram caption**
-
-A toolbox talk should be practical.
+Start the day with everyone in mind.
 
 • Discuss the tasks planned for that day.
 • Identify the hazards workers will face.
@@ -546,9 +498,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-A toolbox talk should be practical.
+Start the day with everyone in mind.
 
 Discuss the tasks planned for that day. Identify the hazards workers will face. Agree controls and emergency arrangements.
 
@@ -556,31 +508,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-A toolbox talk should be practical.
+Start the day with everyone in mind.
 Discuss the tasks planned for that day.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-A toolbox talk should be practical. Discuss the tasks planned for that day. Identify the hazards workers will face. Agree controls and emergency arrangements. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Start the day with everyone in mind. Discuss the tasks planned for that day. Identify the hazards workers will face. Agree controls and emergency arrangements. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: A toolbox talk should be practical. Discuss the tasks planned for that day; Identify the hazards workers will face; Agree controls and emergency arrangements. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Start the day with everyone in mind. Topic: A toolbox talk should be practical.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 14 — A clearer brief. A better conversation.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "A toolbox talk should be practical.". Supporting points: Discuss the tasks planned for that day; Identify the hazards workers will face; Agree controls and emergency arrangements. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-14.png)
 
-## Day 14 — Your drawings tell part of the story.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-14.png` and `images/story/day-14.png`.
-
-**Facebook / Instagram caption**
-
-Your drawings tell part of the story.
+A clearer brief. A better conversation.
 
 • Surveys describe existing conditions.
 • Specifications define required performance.
@@ -590,9 +538,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Your drawings tell part of the story.
+A clearer brief. A better conversation.
 
 Surveys describe existing conditions. Specifications define required performance. A clear scope helps make quotes comparable.
 
@@ -600,31 +548,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Your drawings tell part of the story.
+A clearer brief. A better conversation.
 Surveys describe existing conditions.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Your drawings tell part of the story. Surveys describe existing conditions. Specifications define required performance. A clear scope helps make quotes comparable. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+A clearer brief. A better conversation. Surveys describe existing conditions. Specifications define required performance. A clear scope helps make quotes comparable. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Your drawings tell part of the story. Surveys describe existing conditions; Specifications define required performance; A clear scope helps make quotes comparable. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: A clearer brief. A better conversation. Topic: Your drawings tell part of the story.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 15 — Progress worth keeping track of.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Your drawings tell part of the story.". Supporting points: Surveys describe existing conditions; Specifications define required performance; A clear scope helps make quotes comparable. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-15.png)
 
-## Day 15 — A milestone needs a definition.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-15.png` and `images/story/day-15.png`.
-
-**Facebook / Instagram caption**
-
-A milestone needs a definition.
+Progress worth keeping track of.
 
 • State exactly what has been completed.
 • Record inspections and outstanding work.
@@ -634,9 +578,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-A milestone needs a definition.
+Progress worth keeping track of.
 
 State exactly what has been completed. Record inspections and outstanding work. Explain the next stage of construction.
 
@@ -644,31 +588,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-A milestone needs a definition.
+Progress worth keeping track of.
 State exactly what has been completed.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-A milestone needs a definition. State exactly what has been completed. Record inspections and outstanding work. Explain the next stage of construction. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Progress worth keeping track of. State exactly what has been completed. Record inspections and outstanding work. Explain the next stage of construction. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: A milestone needs a definition. State exactly what has been completed; Record inspections and outstanding work; Explain the next stage of construction. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Progress worth keeping track of. Topic: A milestone needs a definition.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 16 — Built with checks along the way.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "A milestone needs a definition.". Supporting points: State exactly what has been completed; Record inspections and outstanding work; Explain the next stage of construction. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-16.png)
 
-## Day 16 — Quality is checked throughout the work.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-16.png` and `images/story/day-16.png`.
-
-**Facebook / Instagram caption**
-
-Quality is checked throughout the work.
+Built with checks along the way.
 
 • Earthworks require specified compaction checks.
 • Concrete testing follows the project specification.
@@ -678,9 +618,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Quality is checked throughout the work.
+Built with checks along the way.
 
 Earthworks require specified compaction checks. Concrete testing follows the project specification. Keep inspection and test records together.
 
@@ -688,31 +628,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Quality is checked throughout the work.
+Built with checks along the way.
 Earthworks require specified compaction checks.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Quality is checked throughout the work. Earthworks require specified compaction checks. Concrete testing follows the project specification. Keep inspection and test records together. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Built with checks along the way. Earthworks require specified compaction checks. Concrete testing follows the project specification. Keep inspection and test records together. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Quality is checked throughout the work. Earthworks require specified compaction checks; Concrete testing follows the project specification; Keep inspection and test records together. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Built with checks along the way. Topic: Quality is checked throughout the work.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 17 — The people matter most.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Quality is checked throughout the work.". Supporting points: Earthworks require specified compaction checks; Concrete testing follows the project specification; Keep inspection and test records together. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-17.png)
 
-## Day 17 — PPE is one part of site safety.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-17.png` and `images/story/day-17.png`.
-
-**Facebook / Instagram caption**
-
-PPE is one part of site safety.
+The people matter most.
 
 • Plan work to control hazards first.
 • Use protective equipment suited to the task.
@@ -722,9 +658,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-PPE is one part of site safety.
+The people matter most.
 
 Plan work to control hazards first. Use protective equipment suited to the task. Report changing conditions to the supervisor.
 
@@ -732,31 +668,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-PPE is one part of site safety.
+The people matter most.
 Plan work to control hazards first.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-PPE is one part of site safety. Plan work to control hazards first. Use protective equipment suited to the task. Report changing conditions to the supervisor. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+The people matter most. Plan work to control hazards first. Use protective equipment suited to the task. Report changing conditions to the supervisor. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: PPE is one part of site safety. Plan work to control hazards first; Use protective equipment suited to the task; Report changing conditions to the supervisor. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: The people matter most. Topic: PPE is one part of site safety.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 18 — From an idea to a place.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "PPE is one part of site safety.". Supporting points: Plan work to control hazards first; Use protective equipment suited to the task; Report changing conditions to the supervisor. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-18.png)
 
-## Day 18 — From foundations to handover.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-18.png` and `images/story/day-18.png`.
-
-**Facebook / Instagram caption**
-
-From foundations to handover.
+From an idea to a place.
 
 • Check setting out before construction.
 • Inspect work before it is covered.
@@ -766,9 +698,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-From foundations to handover.
+From an idea to a place.
 
 Check setting out before construction. Inspect work before it is covered. Track defects and close-out documents.
 
@@ -776,31 +708,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-From foundations to handover.
+From an idea to a place.
 Check setting out before construction.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-From foundations to handover. Check setting out before construction. Inspect work before it is covered. Track defects and close-out documents. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+From an idea to a place. Check setting out before construction. Inspect work before it is covered. Track defects and close-out documents. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: From foundations to handover. Check setting out before construction; Inspect work before it is covered; Track defects and close-out documents. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: From an idea to a place. Topic: From foundations to handover.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 19 — Every machine has its part.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "From foundations to handover.". Supporting points: Check setting out before construction; Inspect work before it is covered; Track defects and close-out documents. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-19.png)
 
-## Day 19 — What a grader, roller and excavator do.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-19.png` and `images/story/day-19.png`.
-
-**Facebook / Instagram caption**
-
-What a grader, roller and excavator do.
+Every machine has its part.
 
 • An excavator digs and moves material.
 • A grader shapes levels and profiles.
@@ -810,9 +738,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-What a grader, roller and excavator do.
+Every machine has its part.
 
 An excavator digs and moves material. A grader shapes levels and profiles. A roller compacts suitable material.
 
@@ -820,31 +748,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-What a grader, roller and excavator do.
+Every machine has its part.
 An excavator digs and moves material.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-What a grader, roller and excavator do. An excavator digs and moves material. A grader shapes levels and profiles. A roller compacts suitable material. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Every machine has its part. An excavator digs and moves material. A grader shapes levels and profiles. A roller compacts suitable material. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: What a grader, roller and excavator do. An excavator digs and moves material; A grader shapes levels and profiles; A roller compacts suitable material. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Every machine has its part. Topic: What a grader, roller and excavator do.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 20 — There’s a question behind every project.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "What a grader, roller and excavator do.". Supporting points: An excavator digs and moves material; A grader shapes levels and profiles; A roller compacts suitable material. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-20.png)
 
-## Day 20 — Ask an engineer: what would you explain?
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-20.png` and `images/story/day-20.png`.
-
-**Facebook / Instagram caption**
-
-Ask an engineer: what would you explain?
+There’s a question behind every project.
 
 • Road construction layers.
 • Water and sewer infrastructure.
@@ -854,9 +778,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Ask an engineer: what would you explain?
+There’s a question behind every project.
 
 Road construction layers. Water and sewer infrastructure. Drainage and building foundations.
 
@@ -864,31 +788,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Ask an engineer: what would you explain?
+There’s a question behind every project.
 Road construction layers.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Ask an engineer: what would you explain? Road construction layers. Water and sewer infrastructure. Drainage and building foundations. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+There’s a question behind every project. Road construction layers. Water and sewer infrastructure. Drainage and building foundations. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Ask an engineer: what would you explain? Road construction layers; Water and sewer infrastructure; Drainage and building foundations. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: There’s a question behind every project. Topic: Ask an engineer: what would you explain?. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 21 — Choose with confidence.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Ask an engineer: what would you explain?". Supporting points: Road construction layers; Water and sewer infrastructure; Drainage and building foundations. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-21.png)
 
-## Day 21 — Before choosing a contractor.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-21.png` and `images/story/day-21.png`.
-
-**Facebook / Instagram caption**
-
-Before choosing a contractor.
+Choose with confidence.
 
 • Ask about relevant project experience.
 • Discuss capacity and quality procedures.
@@ -898,9 +818,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Before choosing a contractor.
+Choose with confidence.
 
 Ask about relevant project experience. Discuss capacity and quality procedures. Clarify scope, programme and communication.
 
@@ -908,31 +828,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Before choosing a contractor.
+Choose with confidence.
 Ask about relevant project experience.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Before choosing a contractor. Ask about relevant project experience. Discuss capacity and quality procedures. Clarify scope, programme and communication. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Choose with confidence. Ask about relevant project experience. Discuss capacity and quality procedures. Clarify scope, programme and communication. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Before choosing a contractor. Ask about relevant project experience; Discuss capacity and quality procedures; Clarify scope, programme and communication. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Choose with confidence. Topic: Before choosing a contractor.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 22 — Make room for the weather.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Before choosing a contractor.". Supporting points: Ask about relevant project experience; Discuss capacity and quality procedures; Clarify scope, programme and communication. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-22.png)
 
-## Day 22 — Plan construction around the weather.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-22.png` and `images/story/day-22.png`.
-
-**Facebook / Instagram caption**
-
-Plan construction around the weather.
+Make room for the weather.
 
 • Protect exposed work from runoff.
 • Allow for weather-sensitive activities.
@@ -942,9 +858,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Plan construction around the weather.
+Make room for the weather.
 
 Protect exposed work from runoff. Allow for weather-sensitive activities. Keep drainage routes under review.
 
@@ -952,31 +868,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Plan construction around the weather.
+Make room for the weather.
 Protect exposed work from runoff.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Plan construction around the weather. Protect exposed work from runoff. Allow for weather-sensitive activities. Keep drainage routes under review. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Make room for the weather. Protect exposed work from runoff. Allow for weather-sensitive activities. Keep drainage routes under review. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Plan construction around the weather. Protect exposed work from runoff; Allow for weather-sensitive activities; Keep drainage routes under review. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Make room for the weather. Topic: Plan construction around the weather.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 23 — Give the rain somewhere to go.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Plan construction around the weather.". Supporting points: Protect exposed work from runoff; Allow for weather-sensitive activities; Keep drainage routes under review. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-23.png)
 
-## Day 23 — Roads need somewhere for water to go.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-23.png` and `images/story/day-23.png`.
-
-**Facebook / Instagram caption**
-
-Roads need somewhere for water to go.
+Give the rain somewhere to go.
 
 • Drainage moves runoff away from the pavement.
 • Blocked outlets can cause ponding.
@@ -986,9 +898,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Roads need somewhere for water to go.
+Give the rain somewhere to go.
 
 Drainage moves runoff away from the pavement. Blocked outlets can cause ponding. Maintenance matters after construction.
 
@@ -996,31 +908,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Roads need somewhere for water to go.
+Give the rain somewhere to go.
 Drainage moves runoff away from the pavement.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Roads need somewhere for water to go. Drainage moves runoff away from the pavement. Blocked outlets can cause ponding. Maintenance matters after construction. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Give the rain somewhere to go. Drainage moves runoff away from the pavement. Blocked outlets can cause ponding. Maintenance matters after construction. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Roads need somewhere for water to go. Drainage moves runoff away from the pavement; Blocked outlets can cause ponding; Maintenance matters after construction. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Give the rain somewhere to go. Topic: Roads need somewhere for water to go.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 24 — Good teamwork starts with a conversation.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Roads need somewhere for water to go.". Supporting points: Drainage moves runoff away from the pavement; Blocked outlets can cause ponding; Maintenance matters after construction. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-24.png)
 
-## Day 24 — A coordinated team keeps decisions moving.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-24.png` and `images/story/day-24.png`.
-
-**Facebook / Instagram caption**
-
-A coordinated team keeps decisions moving.
+Good teamwork starts with a conversation.
 
 • Agree roles and reporting lines.
 • Record instructions and changes.
@@ -1030,9 +938,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-A coordinated team keeps decisions moving.
+Good teamwork starts with a conversation.
 
 Agree roles and reporting lines. Record instructions and changes. Raise questions before they delay work.
 
@@ -1040,31 +948,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-A coordinated team keeps decisions moving.
+Good teamwork starts with a conversation.
 Agree roles and reporting lines.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-A coordinated team keeps decisions moving. Agree roles and reporting lines. Record instructions and changes. Raise questions before they delay work. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Good teamwork starts with a conversation. Agree roles and reporting lines. Record instructions and changes. Raise questions before they delay work. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: A coordinated team keeps decisions moving. Agree roles and reporting lines; Record instructions and changes; Raise questions before they delay work. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Good teamwork starts with a conversation. Topic: A coordinated team keeps decisions moving.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 25 — Ask about the work behind the name.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "A coordinated team keeps decisions moving.". Supporting points: Agree roles and reporting lines; Record instructions and changes; Raise questions before they delay work. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-25.png)
 
-## Day 25 — What should a project reference tell you?
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-25.png` and `images/story/day-25.png`.
-
-**Facebook / Instagram caption**
-
-What should a project reference tell you?
+Ask about the work behind the name.
 
 • The type and scope of the work.
 • The contractor's actual role.
@@ -1074,9 +978,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-What should a project reference tell you?
+Ask about the work behind the name.
 
 The type and scope of the work. The contractor's actual role. A contact who has agreed to be a reference.
 
@@ -1084,31 +988,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-What should a project reference tell you?
+Ask about the work behind the name.
 The type and scope of the work.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-What should a project reference tell you? The type and scope of the work. The contractor's actual role. A contact who has agreed to be a reference. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Ask about the work behind the name. The type and scope of the work. The contractor's actual role. A contact who has agreed to be a reference. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: What should a project reference tell you? The type and scope of the work; The contractor's actual role; A contact who has agreed to be a reference. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Ask about the work behind the name. Topic: What should a project reference tell you?. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 26 — Every change tells a story.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "What should a project reference tell you?". Supporting points: The type and scope of the work; The contractor's actual role; A contact who has agreed to be a reference. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-26.png)
 
-## Day 26 — Before and after needs context.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-26.png` and `images/story/day-26.png`.
-
-**Facebook / Instagram caption**
-
-Before and after needs context.
+Every change tells a story.
 
 • Use the same viewpoint where possible.
 • Include the dates of each image.
@@ -1118,9 +1018,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Before and after needs context.
+Every change tells a story.
 
 Use the same viewpoint where possible. Include the dates of each image. Describe the work between the two stages.
 
@@ -1128,31 +1028,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Before and after needs context.
+Every change tells a story.
 Use the same viewpoint where possible.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Before and after needs context. Use the same viewpoint where possible. Include the dates of each image. Describe the work between the two stages. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Every change tells a story. Use the same viewpoint where possible. Include the dates of each image. Describe the work between the two stages. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Before and after needs context. Use the same viewpoint where possible; Include the dates of each image; Describe the work between the two stages. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Every change tells a story. Topic: Before and after needs context.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 27 — Make the next step clear.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Before and after needs context.". Supporting points: Use the same viewpoint where possible; Include the dates of each image; Describe the work between the two stages. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-27.png)
 
-## Day 27 — Inside a useful planning meeting.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-27.png` and `images/story/day-27.png`.
-
-**Facebook / Instagram caption**
-
-Inside a useful planning meeting.
+Make the next step clear.
 
 • Review progress against the programme.
 • Resolve constraints and required decisions.
@@ -1162,9 +1058,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Inside a useful planning meeting.
+Make the next step clear.
 
 Review progress against the programme. Resolve constraints and required decisions. Assign clear actions and owners.
 
@@ -1172,31 +1068,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Inside a useful planning meeting.
+Make the next step clear.
 Review progress against the programme.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Inside a useful planning meeting. Review progress against the programme. Resolve constraints and required decisions. Assign clear actions and owners. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Make the next step clear. Review progress against the programme. Resolve constraints and required decisions. Assign clear actions and owners. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Inside a useful planning meeting. Review progress against the programme; Resolve constraints and required decisions; Assign clear actions and owners. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Make the next step clear. Topic: Inside a useful planning meeting.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 28 — Your next tender starts with a brief.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Inside a useful planning meeting.". Supporting points: Review progress against the programme; Resolve constraints and required decisions; Assign clear actions and owners. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-28.png)
 
-## Day 28 — Send a better tender enquiry.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-28.png` and `images/story/day-28.png`.
-
-**Facebook / Instagram caption**
-
-Send a better tender enquiry.
+Your next tender starts with a brief.
 
 • Attach the relevant drawings and scope.
 • Include the submission requirements.
@@ -1206,9 +1098,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Send a better tender enquiry.
+Your next tender starts with a brief.
 
 Attach the relevant drawings and scope. Include the submission requirements. State the closing date and contact person.
 
@@ -1216,31 +1108,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Send a better tender enquiry.
+Your next tender starts with a brief.
 Attach the relevant drawings and scope.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Send a better tender enquiry. Attach the relevant drawings and scope. Include the submission requirements. State the closing date and contact person. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Your next tender starts with a brief. Attach the relevant drawings and scope. Include the submission requirements. State the closing date and contact person. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Send a better tender enquiry. Attach the relevant drawings and scope; Include the submission requirements; State the closing date and contact person. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Your next tender starts with a brief. Topic: Send a better tender enquiry.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 29 — Small steps. Bigger possibilities.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Send a better tender enquiry.". Supporting points: Attach the relevant drawings and scope; Include the submission requirements; State the closing date and contact person. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-29.png)
 
-## Day 29 — A month of engineering explained.
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-29.png` and `images/story/day-29.png`.
-
-**Facebook / Instagram caption**
-
-A month of engineering explained.
+Small steps. Bigger possibilities.
 
 • Road layers support the finished surface.
 • Water infrastructure needs coordination.
@@ -1250,9 +1138,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-A month of engineering explained.
+Small steps. Bigger possibilities.
 
 Road layers support the finished surface. Water infrastructure needs coordination. Drainage helps protect the work.
 
@@ -1260,31 +1148,27 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-A month of engineering explained.
+Small steps. Bigger possibilities.
 Road layers support the finished surface.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-A month of engineering explained. Road layers support the finished surface. Water infrastructure needs coordination. Drainage helps protect the work. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Small steps. Bigger possibilities. Road layers support the finished surface. Water infrastructure needs coordination. Drainage helps protect the work. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: A month of engineering explained. Road layers support the finished surface; Water infrastructure needs coordination; Drainage helps protect the work. Contact details in footer.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Small steps. Bigger possibilities. Topic: A month of engineering explained.. Brand contact details in footer.
 
-**Image generation prompt**
+## Day 30 — Let’s talk about what you want to build.
 
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "A month of engineering explained.". Supporting points: Road layers support the finished surface; Water infrastructure needs coordination; Drainage helps protect the work. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+[Open poster](images/lifestyle/day-30.png)
 
-## Day 30 — Ready to discuss your project?
+**Facebook / Instagram**
 
-**Status:** Ready — evergreen educational copy. **Artwork:** `images/feed/day-30.png` and `images/story/day-30.png`.
-
-**Facebook / Instagram caption**
-
-Ready to discuss your project?
+Let’s talk about what you want to build.
 
 • Roads and drainage.
 • Water, sewer, structures and buildings.
@@ -1294,9 +1178,9 @@ Discuss your requirements on WhatsApp: https://wa.me/263782381986 or visit https
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**LinkedIn version**
+**LinkedIn**
 
-Ready to discuss your project?
+Let’s talk about what you want to build.
 
 Roads and drainage. Water, sewer, structures and buildings. Send your scope or drawings for discussion.
 
@@ -1304,20 +1188,16 @@ For scope and quotation enquiries, contact info@onpointcivils.co.zw or visit htt
 
 #OnPointCivils #CivilEngineeringZimbabwe #ConstructionZW
 
-**WhatsApp Status**
+**WhatsApp**
 
-Ready to discuss your project?
+Let’s talk about what you want to build.
 Roads and drainage.
 WhatsApp +263782381986 to discuss your requirements.
 
-**Google Business Profile version**
+**Google Business Profile**
 
-Ready to discuss your project? Roads and drainage. Water, sewer, structures and buildings. Send your scope or drawings for discussion. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
+Let’s talk about what you want to build. Roads and drainage. Water, sewer, structures and buildings. Send your scope or drawings for discussion. Visit https://onpointcivils.co.zw/ to discuss scope and quotation.
 
 **Alt text**
 
-OnPoint Civils educational card: Ready to discuss your project? Roads and drainage; Water, sewer, structures and buildings; Send your scope or drawings for discussion. Contact details in footer.
-
-**Image generation prompt**
-
-Create a portrait 4:5 educational poster for OnPoint Civils. Colours #0f1d2e, #f2b705, #f4f5f7. Clear editorial sans serif, generous spacing. Headline: "Ready to discuss your project?". Supporting points: Roads and drainage; Water, sewer, structures and buildings; Send your scope or drawings for discussion. Use a simple relevant conceptual illustration. Footer: "onpointcivils.co.zw". No invented logo, people, customer work, reviews, statistics, discounts or certifications. Keep any scenes clearly illustrative. Recompose a 9:16 version with text away from the top and bottom 250 pixels; do not crop text.
+Illustrative contemporary African lifestyle advertising for onpoint-civils: Let’s talk about what you want to build. Topic: Ready to discuss your project?. Brand contact details in footer.
